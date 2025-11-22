@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "enable_velocity": true,
+  "enable_supply_logic": true,
+  "enable_stale_deflation": false,
+  "enable_rare_boost": true,
+  "velocity_high_threshold": 4,
+  "velocity_medium_threshold": 2,
+  "velocity_window_days": 45,
+  "velocity_boost_high": 1.15,
+  "velocity_boost_medium": 1.08,
+  "oversupply_threshold": 15,
+  "oversupply_discount": 0.92,
+  "rare_supply_threshold": 3,
+  "rare_boost_factor": 1.1,
+  "max_daily_increase_pct": 30,
+  "max_daily_decrease_pct": 30,
+  "active_cache_ttl_minutes": 720
+}
