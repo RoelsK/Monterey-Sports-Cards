@@ -15,5 +15,6 @@
   "rare_boost_factor": 1.1,
   "max_daily_increase_pct": 30,
   "max_daily_decrease_pct": 30,
-  "active_cache_ttl_minutes": 720
+  "active_cache_ttl_minutes": 720,
+  "manual_overrides_path": "manual_overrides.json"
 }
