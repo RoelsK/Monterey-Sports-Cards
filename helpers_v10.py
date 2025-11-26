@@ -1,98 +1,98 @@
-import os
+import os, sys
 import json
 import re
 from datetime import datetime
 from typing import Dict, Any, Tuple, List
 
+# ------------------------------------------------------------
+# PATH BOOTSTRAP
+# ------------------------------------------------------------
+CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT_DIR = os.path.abspath(os.path.join(CURRENT_DIR, ".."))
 
-def _ensure_dir(path: str):
-    folder = os.path.dirname(path)
-    if folder and not os.path.exists(folder):
-        os.makedirs(folder)
+if ROOT_DIR not in sys.path:
+    sys.path.insert(0, ROOT_DIR)
 
+# ------------------------------------------------------------
+# GENERIC JSON LOADER
+# ------------------------------------------------------------
+def _load_json(name: str):
+    path = os.path.join(ROOT_DIR, name)
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    except:
+        return {}
+
+# ------------------------------------------------------------
+# LOAD TOKEN RULES (player tokens, stopwords, suffixes)
+# ------------------------------------------------------------
+TOKEN_RULES = _load_json("token_rules.json")
+if not TOKEN_RULES:
+    TOKEN_RULES = {
+        "remove_words": [],
+        "player_suffixes": ["jr", "sr", "ii", "iii", "iv"],
+        "max_name_word_length": 4,
+        "normalization_table": []
+    }
+
+# ------------------------------------------------------------
+# LOAD ALL OTHER JSON RESOURCES
+# ------------------------------------------------------------
+SET_PHRASES          = _load_json("set_phrases.json")
+BRAND_FAMILIES       = _load_json("brand_families.json")
+CLASSIFICATION_RULES = _load_json("classification_rules.json")
+
+# ------------------------------------------------------------
+# PARALLEL RULES (.py, not JSON)
+# ------------------------------------------------------------
+try:
+    import parallel_rules as PARALLEL_RULES
+except Exception:
+    PARALLEL_RULES = {}
+
+# ------------------------------------------------------------
+# IMPORT PRICING ENGINE FOR SIGNATURE WRAPPER
+# ------------------------------------------------------------
+from pricing import pricing_engine
+
+def _extract_card_signature_from_title(title: str):
+    """Expose pricing_engine’s signature extractor through helpers_v10."""
+    return pricing_engine._extract_card_signature_from_title(title)
 
 # ============================================================
-# GLOBAL TITLE NORMALIZATION TABLE (v1)
-# Shared by miner + pricing engine
+# GLOBAL NORMALIZATION TABLE
+# Merged and de-duplicated version of your previous two systems
 # ============================================================
 
-NORMALIZATION_REPLACEMENTS = {
-    # ----- E-Motion family, unify into canonical "e motion"
-    "e-motion": "e motion",
-    "e – motion": "e motion",
-    "e–motion": "e motion",
-    "e — motion": "e motion",
-    "e—motion": "e motion",
-    "e. motion": "e motion",
-    "e / motion": "e motion",
-    "e . motion": "e motion",
+NORMALIZATION_TABLE: List[Tuple[str, str]] = []
 
-    # “emotion” as used in some OCR’d titles
-    "emotion": "e motion",
+# 1. Inject any normalization from token_rules.json
+for pair in TOKEN_RULES.get("normalization_table", []):
+    if isinstance(pair, list) and len(pair) == 2:
+        NORMALIZATION_TABLE.append((pair[0], pair[1]))
 
-    # ----- Chrome Platinum Anniversary variations
-    "chrome platinum anniv": "chrome platinum anniversary",
-    "chrome platinum annivers": "chrome platinum anniversary",
-
-    # ----- Upper Deck SP / SPx variations
-    "sp x": "spx",
-    "sp-x": "spx",
-    "s.p.x": "spx",
-
-    # ----- Stadium Club
-    "stadium-club": "stadium club",
-    "stadiumclub": "stadium club",
-    "topps stadium club": "stadium club",
-
-    # ----- Donruss Elite
-    "donruss-elite": "donruss elite",
-    "elite series": "elite series",
-
-    # ----- Fleer Ultra
-    "fleer-ultra": "fleer ultra",
-    "ultra-": "ultra",
-
-    # ----- Bowman Chrome
-    "bowman-chrome": "bowman chrome",
-    "bowmanchrome": "bowman chrome",
-
-    # ----- Topps Chrome
-    "topps-chrome": "topps chrome",
-    "toppschrome": "topps chrome",
-
-    # ----- Hoops Premium Stock
-    "hoops premium stock": "hoops premium stock",
-
-    # Misc cleanup
-    "limited rookies": "limited rookies",
-}
-
-
-NORMALIZATION_TABLE = [
+# 2. Built-in canonical normalization (v8 strict)
+NORMALIZATION_TABLE.extend([
     (r"\bsky[\s\-]*box\b", "skybox"),
-    (r"\be[\s\-]*motion\b", "e motion"),     # ★ canonical E-Motion fix
+    (r"\be[\s\-]*motion\b", "e motion"),
     (r"\btopps? chrome\b", "topps chrome"),
     (r"\btopps? finest\b", "topps finest"),
     (r"[^a-z0-9]+", " "),
-]
+])
 
 def normalize_title_global(text: str) -> str:
-    """
-    Fully canonical global normalization for ALL set-phrase,
-    brand-family, and token extraction.
-    """
+    """Full canonical normalization used across set/player extraction."""
     if not text:
         return ""
-
     t = text.lower()
-
     for pattern, repl in NORMALIZATION_TABLE:
         t = re.sub(pattern, repl, t)
+    return re.sub(r"\s+", " ", t).strip()
 
-    t = re.sub(r"\s+", " ", t).strip()
-    return t
-
-# ================= CONFIG =================
+# ================= CONFIG SYSTEM =================
 
 DEFAULT_CONFIG: Dict[str, Any] = {
     "version": 1,
@@ -119,11 +119,13 @@ DEFAULT_CONFIG: Dict[str, Any] = {
     "active_cache_ttl_minutes": 720  # 12 hours
 }
 
+def _ensure_dir(path: str):
+    folder = os.path.dirname(path)
+    if folder and not os.path.exists(folder):
+        os.makedirs(folder)
 
 def load_config(path: str) -> Dict[str, Any]:
-    """
-    Load V10 config from JSON, falling back to defaults and writing default file if missing.
-    """
+    """Load config_v10.json with fallback to DEFAULT_CONFIG."""
     cfg = DEFAULT_CONFIG.copy()
     if os.path.exists(path):
         try:
@@ -142,7 +144,6 @@ def load_config(path: str) -> Dict[str, Any]:
         except Exception as e:
             print(f"[V10] Could not write default config file ({e}).")
     return cfg
-
 
 # ================= ACTIVE CACHE =================
 
@@ -439,3 +440,226 @@ def adjust_price_with_enhancements(
     }
 
     return round(adj, 2), " | ".join(reasons), metrics
+
+# ============================================================
+# TITLE PARSING HELPERS (restored for strict matcher v7/v8)
+# ============================================================
+
+def _basic_tokens(text: str):
+    """
+    Shared tokenizer using global normalization.
+    Returns lowercased word tokens with punctuation stripped.
+    """
+    norm = normalize_title_global(text or "")
+    return [t for t in norm.split() if t]
+
+def extract_year_from_title(title: str):
+    """
+    Extract a 4-digit year from the title.
+    More permissive and stable than previous version.
+    """
+    import re
+
+    if not title:
+        return None
+
+    # allow punctuation between digits
+    clean = normalize_title_global(title)
+    
+    m = re.search(r"(19[0-9]{2}|20[0-4][0-9])", clean)
+    if m:
+        return int(m.group(1))
+
+    return None
+
+def extract_card_number_from_title(title: str):
+    """
+    Extract the card number like '#8', 'No. 8', 'Card 8'.
+    Returns the canonical string (e.g., '8', '8A') or None.
+    """
+    import re
+
+    if not title:
+        return None
+
+    t = title.lower()
+
+    # Avoid catching serials like #/5000
+    m = re.search(r"(?<!/)\#\s*([0-9]{1,4}[a-z]?)", t)
+    if m:
+        return m.group(1).upper()
+
+    m = re.search(r"\bno\.?\s*([0-9]{1,4}[a-z]?)", t)
+    if m:
+        return m.group(1).upper()
+
+    m = re.search(r"\bcard\s*#?\s*([0-9]{1,4}[a-z]?)", t)
+    if m:
+        return m.group(1).upper()
+
+    return None
+
+
+def extract_player_tokens_from_title(title: str) -> List[str]:
+    """
+    Universal player-token extractor.
+    Works on ANY title order:
+        - "Cal Ripken Jr 1995 SkyBox E-Motion #8"
+        - "1995 skybox e motion cal ripken jr 8"
+        - "Ripken, Cal Jr - 1995 Skybox"
+    """
+
+    if not title:
+        return []
+
+    t = normalize_title_global(title)
+    words = t.split()
+
+    remove_words = set(TOKEN_RULES.get("remove_words", []))
+    suffixes = set(TOKEN_RULES.get("player_suffixes", ["jr", "sr", "ii", "iii", "iv"]))
+    max_len = TOKEN_RULES.get("max_name_word_length", 4)
+
+    clean = [
+        w for w in words
+        if w not in remove_words
+        and not w.isdigit()
+        and len(w) <= max_len
+    ]
+
+    # collect suffixes with the previous word (ripken jr → ripken+jr)
+    tokens = []
+    skip_next = False
+
+    for i, w in enumerate(clean):
+        if skip_next:
+            skip_next = False
+            continue
+        if i + 1 < len(clean) and clean[i+1] in suffixes:
+            tokens.append(w)
+            tokens.append(clean[i+1])
+            skip_next = True
+        else:
+            tokens.append(w)
+
+    return tokens
+
+def extract_set_tokens(title: str) -> List[str]:
+    """
+    Detect set phrases using set_phrases.json.
+    Supports multi-word set names and normalization.
+    """
+    if not title:
+        return []
+
+    t = normalize_title_global(title)
+
+    tokens = []
+    for phrase in SET_PHRASES:
+        pat = phrase.get("pattern")
+        out_tokens = phrase.get("tokens")
+        if not pat or not out_tokens:
+            continue
+        if re.search(pat, t):
+            tokens.extend(out_tokens)
+
+    return list(dict.fromkeys(tokens))
+
+def extract_parallels_from_title(title: str):
+    """
+    Extract simple parallel descriptors (refractor, gold, silver, etc.).
+    Returns a list of canonical parallel tokens.
+    """
+    if not title:
+        return []
+
+    t = normalize_title_global(title)
+    parallels = []
+
+    # canonical parallel keywords
+    candidates = [
+        "refractor", "xfractor", "mojo", "wave", "pulsar", "atomic",
+        "prizm", "prism",
+        "silver", "gold", "blue", "green", "red", "purple", "orange",
+        "pink", "black", "white", "aqua", "teal", "lime", "rainbow",
+        "holo", "foil"
+    ]
+
+    for word in candidates:
+        if word in t:
+            parallels.append(word)
+
+    # dedupe while preserving order
+    seen = set()
+    out = []
+    for p in parallels:
+        if p not in seen:
+            seen.add(p)
+            out.append(p)
+
+    return out
+
+
+def detect_insert_flag(title: str):
+    """
+    True if this looks like an insert subset (not base).
+    """
+    if not title:
+        return False
+
+    t = normalize_title_global(title)
+    keywords = [
+        "insert", "inserts", "insert set",
+        "inser", "subset",
+    ]
+    return any(k in t for k in keywords)
+
+
+def detect_promo_flag(title: str):
+    """
+    True if this looks like a promo / sample / proof card.
+    """
+    if not title:
+        return False
+
+    t = normalize_title_global(title)
+    keywords = [
+        "promo", "promotional", "sample", "proof",
+        "test issue", "test card", "preview",
+    ]
+    return any(k in t for k in keywords)
+
+
+def detect_oddball_flag(title: str):
+    """
+    True if this looks like an oddball (food issue, police, etc.).
+    """
+    if not title:
+        return False
+
+    t = normalize_title_global(title)
+    keywords = [
+        "police", "cereal", "hostess", "post", "kelloggs",
+        "dennys", "mcdonald", "izzy", "slurpee", "magazine",
+        "book", "disc", "coin", "sticker", "food issue",
+    ]
+    return any(k in t for k in keywords)
+
+# ------------------------------------------------------------
+# SIGNATURE WRAPPER (exposes pricing_engine._extract_card_signature_from_title)
+# ------------------------------------------------------------
+try:
+    from pricing import pricing_engine
+except Exception as e:
+    pricing_engine = None
+
+def _extract_card_signature_from_title(title: str):
+    """
+    Wrapper so other modules can call the signature extractor
+    through helpers_v10 instead of reaching into pricing_engine.
+    """
+    if pricing_engine is None:
+        return None
+    helper = getattr(pricing_engine, "_extract_card_signature_from_title", None)
+    if helper is None:
+        return None
+    return helper(title)
