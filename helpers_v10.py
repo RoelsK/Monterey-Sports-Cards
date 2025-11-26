@@ -499,48 +499,27 @@ def extract_card_number_from_title(title: str):
 
     return None
 
-
 def extract_player_tokens_from_title(title: str) -> List[str]:
-    """
-    Universal player-token extractor.
-    Works on ANY title order:
-        - "Cal Ripken Jr 1995 SkyBox E-Motion #8"
-        - "1995 skybox e motion cal ripken jr 8"
-        - "Ripken, Cal Jr - 1995 Skybox"
-    """
+    normalized = normalize_title_global(title)
+    words = normalized.split()
+    words = [w for w in words if w not in TOKEN_RULES["remove_words"] and not w.isdigit()
+             and len(w) <= TOKEN_RULES.get("max_name_word_length", 20)]
 
-    if not title:
-        return []
+    # Exclude known set tokens
+    set_tokens = extract_set_tokens(title)
+    words = [w for w in words if w not in set_tokens]
 
-    t = normalize_title_global(title)
-    words = t.split()
-
-    remove_words = set(TOKEN_RULES.get("remove_words", []))
-    suffixes = set(TOKEN_RULES.get("player_suffixes", ["jr", "sr", "ii", "iii", "iv"]))
-    max_len = TOKEN_RULES.get("max_name_word_length", 4)
-
-    clean = [
-        w for w in words
-        if w not in remove_words
-        and not w.isdigit()
-        and len(w) <= max_len
-    ]
-
-    # collect suffixes with the previous word (ripken jr → ripken+jr)
     tokens = []
     skip_next = False
-
-    for i, w in enumerate(clean):
+    for i, word in enumerate(words):
         if skip_next:
             skip_next = False
             continue
-        if i + 1 < len(clean) and clean[i+1] in suffixes:
-            tokens.append(w)
-            tokens.append(clean[i+1])
+        if i + 1 < len(words) and words[i + 1] in TOKEN_RULES["player_suffixes"]:
+            tokens.append(f"{word} {words[i + 1]}")
             skip_next = True
         else:
-            tokens.append(w)
-
+            tokens.append(word)
     return tokens
 
 def extract_set_tokens(title: str) -> List[str]:
