@@ -1,0 +1,11710 @@
+{
+  "punctuation_equivalents": [
+    [
+      "-",
+      ""
+    ],
+    [
+      "\u2013",
+      ""
+    ],
+    [
+      "\u2014",
+      ""
+    ],
+    [
+      "_",
+      " "
+    ]
+  ],
+  "multiword_sets": [
+    [
+      "topps",
+      "&"
+    ],
+    [
+      "topps",
+      "'52"
+    ],
+    [
+      "topps",
+      "1000 3000"
+    ],
+    [
+      "topps",
+      "150"
+    ],
+    [
+      "topps",
+      "1st"
+    ],
+    [
+      "topps",
+      "2021's"
+    ],
+    [
+      "topps",
+      "205"
+    ],
+    [
+      "topps",
+      "206"
+    ],
+    [
+      "topps",
+      "21st"
+    ],
+    [
+      "topps",
+      "2nd"
+    ],
+    [
+      "topps",
+      "60th"
+    ],
+    [
+      "topps",
+      "a"
+    ],
+    [
+      "topps",
+      "air"
+    ],
+    [
+      "topps",
+      "alex"
+    ],
+    [
+      "topps",
+      "allen"
+    ],
+    [
+      "topps",
+      "allmatrix"
+    ],
+    [
+      "topps",
+      "allrookie"
+    ],
+    [
+      "topps",
+      "allstar"
+    ],
+    [
+      "topps",
+      "allstars"
+    ],
+    [
+      "topps",
+      "alltime"
+    ],
+    [
+      "topps",
+      "alltopps"
+    ],
+    [
+      "topps",
+      "amazing"
+    ],
+    [
+      "topps",
+      "american"
+    ],
+    [
+      "topps",
+      "ames"
+    ],
+    [
+      "topps",
+      "aquafina"
+    ],
+    [
+      "topps",
+      "archetypes"
+    ],
+    [
+      "topps",
+      "archives"
+    ],
+    [
+      "topps",
+      "arod"
+    ],
+    [
+      "topps",
+      "around"
+    ],
+    [
+      "topps",
+      "attax"
+    ],
+    [
+      "topps",
+      "autograph"
+    ],
+    [
+      "topps",
+      "autographs"
+    ],
+    [
+      "topps",
+      "barry"
+    ],
+    [
+      "topps",
+      "bazooka"
+    ],
+    [
+      "topps",
+      "before"
+    ],
+    [
+      "topps",
+      "berger's"
+    ],
+    [
+      "topps",
+      "big"
+    ],
+    [
+      "topps",
+      "black"
+    ],
+    [
+      "topps",
+      "blue"
+    ],
+    [
+      "topps",
+      "boardwalk"
+    ],
+    [
+      "topps",
+      "booklets"
+    ],
+    [
+      "topps",
+      "boston"
+    ],
+    [
+      "topps",
+      "bowman"
+    ],
+    [
+      "topps",
+      "box"
+    ],
+    [
+      "topps",
+      "breakout"
+    ],
+    [
+      "topps",
+      "broadway's"
+    ],
+    [
+      "topps",
+      "bryce"
+    ],
+    [
+      "topps",
+      "bunt"
+    ],
+    [
+      "topps",
+      "camo"
+    ],
+    [
+      "topps",
+      "cap'n"
+    ],
+    [
+      "topps",
+      "celebration"
+    ],
+    [
+      "topps",
+      "chasing"
+    ],
+    [
+      "topps",
+      "checklist"
+    ],
+    [
+      "topps",
+      "checklists"
+    ],
+    [
+      "topps",
+      "chrome"
+    ],
+    [
+      "topps",
+      "city"
+    ],
+    [
+      "topps",
+      "classic"
+    ],
+    [
+      "topps",
+      "combos"
+    ],
+    [
+      "topps",
+      "composite"
+    ],
+    [
+      "topps",
+      "cosigners"
+    ],
+    [
+      "topps",
+      "cosmic"
+    ],
+    [
+      "topps",
+      "covering"
+    ],
+    [
+      "topps",
+      "cracker"
+    ],
+    [
+      "topps",
+      "cream"
+    ],
+    [
+      "topps",
+      "crease"
+    ],
+    [
+      "topps",
+      "cup"
+    ],
+    [
+      "topps",
+      "cyberstats"
+    ],
+    [
+      "topps",
+      "debut"
+    ],
+    [
+      "topps",
+      "decade"
+    ],
+    [
+      "topps",
+      "decade's"
+    ],
+    [
+      "topps",
+      "decades'"
+    ],
+    [
+      "topps",
+      "deep"
+    ],
+    [
+      "topps",
+      "derek"
+    ],
+    [
+      "topps",
+      "diamond"
+    ],
+    [
+      "topps",
+      "dick"
+    ],
+    [
+      "topps",
+      "diii"
+    ],
+    [
+      "topps",
+      "doubleheader"
+    ],
+    [
+      "topps",
+      "draft"
+    ],
+    [
+      "topps",
+      "drake's"
+    ],
+    [
+      "topps",
+      "eclipsing"
+    ],
+    [
+      "topps",
+      "effects"
+    ],
+    [
+      "topps",
+      "embossed"
+    ],
+    [
+      "topps",
+      "factory"
+    ],
+    [
+      "topps",
+      "field"
+    ],
+    [
+      "topps",
+      "finest"
+    ],
+    [
+      "topps",
+      "fire"
+    ],
+    [
+      "topps",
+      "first"
+    ],
+    [
+      "topps",
+      "flagship"
+    ],
+    [
+      "topps",
+      "flashback"
+    ],
+    [
+      "topps",
+      "florida"
+    ],
+    [
+      "topps",
+      "formula"
+    ],
+    [
+      "topps",
+      "free"
+    ],
+    [
+      "topps",
+      "fusion"
+    ],
+    [
+      "topps",
+      "future"
+    ],
+    [
+      "topps",
+      "gallery"
+    ],
+    [
+      "topps",
+      "gameday"
+    ],
+    [
+      "topps",
+      "gary"
+    ],
+    [
+      "topps",
+      "gift"
+    ],
+    [
+      "topps",
+      "gilt"
+    ],
+    [
+      "topps",
+      "glossy"
+    ],
+    [
+      "topps",
+      "gold"
+    ],
+    [
+      "topps",
+      "golden"
+    ],
+    [
+      "topps",
+      "grand"
+    ],
+    [
+      "topps",
+      "grapefruit"
+    ],
+    [
+      "topps",
+      "greatness"
+    ],
+    [
+      "topps",
+      "gridiron"
+    ],
+    [
+      "topps",
+      "grudge"
+    ],
+    [
+      "topps",
+      "gypsy"
+    ],
+    [
+      "topps",
+      "hall"
+    ],
+    [
+      "topps",
+      "hallowed"
+    ],
+    [
+      "topps",
+      "hd"
+    ],
+    [
+      "topps",
+      "heritage"
+    ],
+    [
+      "topps",
+      "hidden"
+    ],
+    [
+      "topps",
+      "high"
+    ],
+    [
+      "topps",
+      "highlight"
+    ],
+    [
+      "topps",
+      "hills"
+    ],
+    [
+      "topps",
+      "history"
+    ],
+    [
+      "topps",
+      "hit"
+    ],
+    [
+      "topps",
+      "hobby"
+    ],
+    [
+      "topps",
+      "holiday"
+    ],
+    [
+      "topps",
+      "home"
+    ],
+    [
+      "topps",
+      "inception"
+    ],
+    [
+      "topps",
+      "inspired"
+    ],
+    [
+      "topps",
+      "instant"
+    ],
+    [
+      "topps",
+      "international"
+    ],
+    [
+      "topps",
+      "kaybee"
+    ],
+    [
+      "topps",
+      "kids"
+    ],
+    [
+      "topps",
+      "kimball"
+    ],
+    [
+      "topps",
+      "kmart"
+    ],
+    [
+      "topps",
+      "laser"
+    ],
+    [
+      "topps",
+      "leader"
+    ],
+    [
+      "topps",
+      "league"
+    ],
+    [
+      "topps",
+      "legends"
+    ],
+    [
+      "topps",
+      "logo"
+    ],
+    [
+      "topps",
+      "magazine"
+    ],
+    [
+      "topps",
+      "magic"
+    ],
+    [
+      "topps",
+      "major"
+    ],
+    [
+      "topps",
+      "mcdonald's"
+    ],
+    [
+      "topps",
+      "measures"
+    ],
+    [
+      "topps",
+      "memorable"
+    ],
+    [
+      "topps",
+      "mets"
+    ],
+    [
+      "topps",
+      "micro"
+    ],
+    [
+      "topps",
+      "minted"
+    ],
+    [
+      "topps",
+      "miscut"
+    ],
+    [
+      "topps",
+      "moments"
+    ],
+    [
+      "topps",
+      "mookie"
+    ],
+    [
+      "topps",
+      "mother's"
+    ],
+    [
+      "topps",
+      "museum"
+    ],
+    [
+      "topps",
+      "my"
+    ],
+    [
+      "topps",
+      "mystery"
+    ],
+    [
+      "topps",
+      "national"
+    ],
+    [
+      "topps",
+      "nestle"
+    ],
+    [
+      "topps",
+      "new"
+    ],
+    [
+      "topps",
+      "nl"
+    ],
+    [
+      "topps",
+      "noteworthy"
+    ],
+    [
+      "topps",
+      "now"
+    ],
+    [
+      "topps",
+      "of"
+    ],
+    [
+      "topps",
+      "onetwo"
+    ],
+    [
+      "topps",
+      "opening"
+    ],
+    [
+      "topps",
+      "orange"
+    ],
+    [
+      "topps",
+      "outfielders"
+    ],
+    [
+      "topps",
+      "own"
+    ],
+    [
+      "topps",
+      "pack"
+    ],
+    [
+      "topps",
+      "perennial"
+    ],
+    [
+      "topps",
+      "perspectives"
+    ],
+    [
+      "topps",
+      "philadelphia"
+    ],
+    [
+      "topps",
+      "picture"
+    ],
+    [
+      "topps",
+      "places"
+    ],
+    [
+      "topps",
+      "platinum"
+    ],
+    [
+      "topps",
+      "player"
+    ],
+    [
+      "topps",
+      "post cereal"
+    ],
+    [
+      "topps",
+      "postseason"
+    ],
+    [
+      "topps",
+      "power"
+    ],
+    [
+      "topps",
+      "presidential"
+    ],
+    [
+      "topps",
+      "pressed"
+    ],
+    [
+      "topps",
+      "prime"
+    ],
+    [
+      "topps",
+      "pristine"
+    ],
+    [
+      "topps",
+      "pro"
+    ],
+    [
+      "topps",
+      "profiles"
+    ],
+    [
+      "topps",
+      "purple"
+    ],
+    [
+      "topps",
+      "quaker"
+    ],
+    [
+      "topps",
+      "rainbow"
+    ],
+    [
+      "topps",
+      "record"
+    ],
+    [
+      "topps",
+      "red"
+    ],
+    [
+      "topps",
+      "rediscover"
+    ],
+    [
+      "topps",
+      "reserve"
+    ],
+    [
+      "topps",
+      "riteaid"
+    ],
+    [
+      "topps",
+      "road"
+    ],
+    [
+      "topps",
+      "rubdowns"
+    ],
+    [
+      "topps",
+      "saber"
+    ],
+    [
+      "topps",
+      "salute"
+    ],
+    [
+      "topps",
+      "scoring"
+    ],
+    [
+      "topps",
+      "season"
+    ],
+    [
+      "topps",
+      "season's"
+    ],
+    [
+      "topps",
+      "significant"
+    ],
+    [
+      "topps",
+      "spring"
+    ],
+    [
+      "topps",
+      "stars"
+    ],
+    [
+      "topps",
+      "stickers"
+    ],
+    [
+      "topps",
+      "strata"
+    ],
+    [
+      "topps",
+      "strikeout"
+    ],
+    [
+      "topps",
+      "strikeouts"
+    ],
+    [
+      "topps",
+      "super"
+    ],
+    [
+      "topps",
+      "superstar"
+    ],
+    [
+      "topps",
+      "sweet"
+    ],
+    [
+      "topps",
+      "t205"
+    ],
+    [
+      "topps",
+      "tales"
+    ],
+    [
+      "topps",
+      "tek"
+    ],
+    [
+      "topps",
+      "ten"
+    ],
+    [
+      "topps",
+      "the"
+    ],
+    [
+      "topps",
+      "through"
+    ],
+    [
+      "topps",
+      "throwback"
+    ],
+    [
+      "topps",
+      "ticket"
+    ],
+    [
+      "topps",
+      "timber"
+    ],
+    [
+      "topps",
+      "time"
+    ],
+    [
+      "topps",
+      "timeless"
+    ],
+    [
+      "topps",
+      "tools"
+    ],
+    [
+      "topps",
+      "topps"
+    ],
+    [
+      "topps",
+      "topps stars"
+    ],
+    [
+      "topps",
+      "toronto"
+    ],
+    [
+      "topps",
+      "total"
+    ],
+    [
+      "topps",
+      "toys"
+    ],
+    [
+      "topps",
+      "traded"
+    ],
+    [
+      "topps",
+      "training"
+    ],
+    [
+      "topps",
+      "tribute"
+    ],
+    [
+      "topps",
+      "triple"
+    ],
+    [
+      "topps",
+      "turf"
+    ],
+    [
+      "topps",
+      "turkey"
+    ],
+    [
+      "topps",
+      "turn"
+    ],
+    [
+      "topps",
+      "uk"
+    ],
+    [
+      "topps",
+      "unique"
+    ],
+    [
+      "topps",
+      "united"
+    ],
+    [
+      "topps",
+      "update"
+    ],
+    [
+      "topps",
+      "updates"
+    ],
+    [
+      "topps",
+      "upper"
+    ],
+    [
+      "topps",
+      "usa"
+    ],
+    [
+      "topps",
+      "valor"
+    ],
+    [
+      "topps",
+      "walmart"
+    ],
+    [
+      "topps",
+      "warriors"
+    ],
+    [
+      "topps",
+      "wbc"
+    ],
+    [
+      "topps",
+      "welcome"
+    ],
+    [
+      "topps",
+      "when"
+    ],
+    [
+      "topps",
+      "with"
+    ],
+    [
+      "topps",
+      "woolworth"
+    ],
+    [
+      "topps",
+      "x"
+    ],
+    [
+      "topps",
+      "yankees"
+    ],
+    [
+      "topps '52",
+      "rookies"
+    ],
+    [
+      "topps 1",
+      "al"
+    ],
+    [
+      "topps 1000",
+      "yard"
+    ],
+    [
+      "topps 1000 3000",
+      "yard"
+    ],
+    [
+      "topps 150",
+      "years"
+    ],
+    [
+      "topps 1952",
+      "topps"
+    ],
+    [
+      "topps 1965",
+      "topps"
+    ],
+    [
+      "topps 1972",
+      "topps"
+    ],
+    [
+      "topps 1983",
+      "allstars"
+    ],
+    [
+      "topps 1983",
+      "batting"
+    ],
+    [
+      "topps 1983",
+      "topps"
+    ],
+    [
+      "topps 1985",
+      "35th"
+    ],
+    [
+      "topps 1985",
+      "topps"
+    ],
+    [
+      "topps 1985",
+      "topps chrome"
+    ],
+    [
+      "topps 1986",
+      "35th"
+    ],
+    [
+      "topps 1986",
+      "topps"
+    ],
+    [
+      "topps 1987",
+      "35th"
+    ],
+    [
+      "topps 1987",
+      "allstar"
+    ],
+    [
+      "topps 1987",
+      "anniversary"
+    ],
+    [
+      "topps 1987",
+      "topps"
+    ],
+    [
+      "topps 1988",
+      "35th"
+    ],
+    [
+      "topps 1988",
+      "allstar"
+    ],
+    [
+      "topps 1988",
+      "topps"
+    ],
+    [
+      "topps 1989",
+      "35th"
+    ],
+    [
+      "topps 1989",
+      "allstar"
+    ],
+    [
+      "topps 1989",
+      "allstars"
+    ],
+    [
+      "topps 1989",
+      "topps"
+    ],
+    [
+      "topps 1990",
+      "allstar"
+    ],
+    [
+      "topps 1990",
+      "mvp"
+    ],
+    [
+      "topps 1990",
+      "receiving leaders"
+    ],
+    [
+      "topps 2022",
+      "greatest"
+    ],
+    [
+      "topps 2023",
+      "greatest"
+    ],
+    [
+      "topps 2024",
+      "greatest"
+    ],
+    [
+      "topps 205",
+      "polar"
+    ],
+    [
+      "topps 205",
+      "rare"
+    ],
+    [
+      "topps 205",
+      "triple"
+    ],
+    [
+      "topps 206",
+      "206"
+    ],
+    [
+      "topps 206",
+      "carolina"
+    ],
+    [
+      "topps 206",
+      "polar"
+    ],
+    [
+      "topps 2nd",
+      "year"
+    ],
+    [
+      "topps 4000",
+      "yard"
+    ],
+    [
+      "topps 50",
+      "years"
+    ],
+    [
+      "topps 60",
+      "years"
+    ],
+    [
+      "topps 70",
+      "years"
+    ],
+    [
+      "topps a",
+      "cut"
+    ],
+    [
+      "topps a",
+      "tradition"
+    ],
+    [
+      "topps alex",
+      "rodriguez"
+    ],
+    [
+      "topps allen",
+      "&"
+    ],
+    [
+      "topps allrookie",
+      "50th"
+    ],
+    [
+      "topps allstar",
+      "collector's"
+    ],
+    [
+      "topps allstar",
+      "game"
+    ],
+    [
+      "topps alltime",
+      "allstars"
+    ],
+    [
+      "topps american",
+      "league"
+    ],
+    [
+      "topps ames",
+      "20 20"
+    ],
+    [
+      "topps ames",
+      "allstars"
+    ],
+    [
+      "topps archives",
+      "65th"
+    ],
+    [
+      "topps archives",
+      "derek"
+    ],
+    [
+      "topps archives",
+      "ichiro"
+    ],
+    [
+      "topps archives",
+      "rainbow"
+    ],
+    [
+      "topps archives",
+      "retrospective"
+    ],
+    [
+      "topps archives",
+      "signature"
+    ],
+    [
+      "topps archives",
+      "snapshots"
+    ],
+    [
+      "topps archives",
+      "topps history"
+    ],
+    [
+      "topps attax",
+      "battle"
+    ],
+    [
+      "topps barry",
+      "bonds"
+    ],
+    [
+      "topps bazooka",
+      "shining"
+    ],
+    [
+      "topps berger's",
+      "best"
+    ],
+    [
+      "topps big",
+      "league"
+    ],
+    [
+      "topps black",
+      "gold"
+    ],
+    [
+      "topps blue",
+      "backs"
+    ],
+    [
+      "topps cap'n",
+      "crunch"
+    ],
+    [
+      "topps celebration",
+      "of"
+    ],
+    [
+      "topps chasing",
+      "history"
+    ],
+    [
+      "topps chasing",
+      "the"
+    ],
+    [
+      "topps checklist",
+      "steve"
+    ],
+    [
+      "topps chrome",
+      "'88"
+    ],
+    [
+      "topps chrome",
+      "40th"
+    ],
+    [
+      "topps chrome",
+      "alex"
+    ],
+    [
+      "topps chrome",
+      "allstar"
+    ],
+    [
+      "topps chrome",
+      "autographs"
+    ],
+    [
+      "topps chrome",
+      "black"
+    ],
+    [
+      "topps chrome",
+      "bowman chrome"
+    ],
+    [
+      "topps chrome",
+      "combos"
+    ],
+    [
+      "topps chrome",
+      "die"
+    ],
+    [
+      "topps chrome",
+      "freshman"
+    ],
+    [
+      "topps chrome",
+      "future"
+    ],
+    [
+      "topps chrome",
+      "heart"
+    ],
+    [
+      "topps chrome",
+      "image"
+    ],
+    [
+      "topps chrome",
+      "lords"
+    ],
+    [
+      "topps chrome",
+      "magenta"
+    ],
+    [
+      "topps chrome",
+      "masters"
+    ],
+    [
+      "topps chrome",
+      "mcdonald's"
+    ],
+    [
+      "topps chrome",
+      "mcdonalds"
+    ],
+    [
+      "topps chrome",
+      "mini"
+    ],
+    [
+      "topps chrome",
+      "own"
+    ],
+    [
+      "topps chrome",
+      "perspectives"
+    ],
+    [
+      "topps chrome",
+      "pink"
+    ],
+    [
+      "topps chrome",
+      "platinum"
+    ],
+    [
+      "topps chrome",
+      "power"
+    ],
+    [
+      "topps chrome",
+      "prime"
+    ],
+    [
+      "topps chrome",
+      "prism"
+    ],
+    [
+      "topps chrome",
+      "purple"
+    ],
+    [
+      "topps chrome",
+      "refractor"
+    ],
+    [
+      "topps chrome",
+      "refractors"
+    ],
+    [
+      "topps chrome",
+      "sapphire"
+    ],
+    [
+      "topps chrome",
+      "season"
+    ],
+    [
+      "topps chrome",
+      "sepia"
+    ],
+    [
+      "topps chrome",
+      "superstar"
+    ],
+    [
+      "topps chrome",
+      "throwbacks"
+    ],
+    [
+      "topps chrome",
+      "tide"
+    ],
+    [
+      "topps chrome",
+      "topps"
+    ],
+    [
+      "topps chrome",
+      "topps gallery"
+    ],
+    [
+      "topps chrome",
+      "traded"
+    ],
+    [
+      "topps chrome",
+      "transactions"
+    ],
+    [
+      "topps chrome",
+      "update"
+    ],
+    [
+      "topps chrome",
+      "updates"
+    ],
+    [
+      "topps classic",
+      "combo"
+    ],
+    [
+      "topps classic",
+      "confrontations"
+    ],
+    [
+      "topps cocacola",
+      "commanders"
+    ],
+    [
+      "topps composite",
+      "finest"
+    ],
+    [
+      "topps composite",
+      "midnight"
+    ],
+    [
+      "topps cosigners",
+      "hyper"
+    ],
+    [
+      "topps cosmic",
+      "chrome"
+    ],
+    [
+      "topps covering",
+      "the"
+    ],
+    [
+      "topps cracker",
+      "jack"
+    ],
+    [
+      "topps cream",
+      "colored"
+    ],
+    [
+      "topps debut",
+      "silver"
+    ],
+    [
+      "topps decades'",
+      "best"
+    ],
+    [
+      "topps derek",
+      "jeter"
+    ],
+    [
+      "topps diamond",
+      "anniversary"
+    ],
+    [
+      "topps diamond",
+      "duos"
+    ],
+    [
+      "topps diamond",
+      "giveaway"
+    ],
+    [
+      "topps dick",
+      "perez"
+    ],
+    [
+      "topps draft",
+      "picks"
+    ],
+    [
+      "topps drake's",
+      "big"
+    ],
+    [
+      "topps field",
+      "access"
+    ],
+    [
+      "topps finest",
+      "blue"
+    ],
+    [
+      "topps fire",
+      "en"
+    ],
+    [
+      "topps fire",
+      "fired"
+    ],
+    [
+      "topps fire",
+      "flamethrowers"
+    ],
+    [
+      "topps fire",
+      "gold"
+    ],
+    [
+      "topps fire",
+      "monikers"
+    ],
+    [
+      "topps fire",
+      "ring"
+    ],
+    [
+      "topps fire",
+      "smoke"
+    ],
+    [
+      "topps first",
+      "home run"
+    ],
+    [
+      "topps flashback",
+      "fridays"
+    ],
+    [
+      "topps free",
+      "agent"
+    ],
+    [
+      "topps fusion",
+      "best"
+    ],
+    [
+      "topps future",
+      "stars"
+    ],
+    [
+      "topps gallery",
+      "artist"
+    ],
+    [
+      "topps gallery",
+      "artist's"
+    ],
+    [
+      "topps gallery",
+      "canvas"
+    ],
+    [
+      "topps gallery",
+      "gallery"
+    ],
+    [
+      "topps gallery",
+      "green"
+    ],
+    [
+      "topps gallery",
+      "heritage"
+    ],
+    [
+      "topps gallery",
+      "masterpiece"
+    ],
+    [
+      "topps gallery",
+      "masters"
+    ],
+    [
+      "topps gallery",
+      "masterstrokes"
+    ],
+    [
+      "topps gallery",
+      "national day"
+    ],
+    [
+      "topps gallery",
+      "player's"
+    ],
+    [
+      "topps gallery",
+      "printer"
+    ],
+    [
+      "topps gallery",
+      "rainbow"
+    ],
+    [
+      "topps gameday",
+      "drip"
+    ],
+    [
+      "topps gift",
+      "sets"
+    ],
+    [
+      "topps glossy",
+      "allstars"
+    ],
+    [
+      "topps gold",
+      "foil"
+    ],
+    [
+      "topps gold",
+      "label"
+    ],
+    [
+      "topps gold",
+      "standard"
+    ],
+    [
+      "topps gold",
+      "winners"
+    ],
+    [
+      "topps golden",
+      "anniversary"
+    ],
+    [
+      "topps golden",
+      "giveaway"
+    ],
+    [
+      "topps golden",
+      "greats"
+    ],
+    [
+      "topps golden",
+      "moments"
+    ],
+    [
+      "topps grand",
+      "gamers"
+    ],
+    [
+      "topps gridiron",
+      "lineage"
+    ],
+    [
+      "topps grudge",
+      "match"
+    ],
+    [
+      "topps gypsy",
+      "queen"
+    ],
+    [
+      "topps hallowed",
+      "highlights"
+    ],
+    [
+      "topps heritage",
+      "aboard!"
+    ],
+    [
+      "topps heritage",
+      "al"
+    ],
+    [
+      "topps heritage",
+      "black"
+    ],
+    [
+      "topps heritage",
+      "chrome"
+    ],
+    [
+      "topps heritage",
+      "classic"
+    ],
+    [
+      "topps heritage",
+      "clubhouse"
+    ],
+    [
+      "topps heritage",
+      "flashbacks"
+    ],
+    [
+      "topps heritage",
+      "green"
+    ],
+    [
+      "topps heritage",
+      "junior"
+    ],
+    [
+      "topps heritage",
+      "league"
+    ],
+    [
+      "topps heritage",
+      "memorable"
+    ],
+    [
+      "topps heritage",
+      "mini"
+    ],
+    [
+      "topps heritage",
+      "minor league"
+    ],
+    [
+      "topps heritage",
+      "new"
+    ],
+    [
+      "topps heritage",
+      "now"
+    ],
+    [
+      "topps heritage",
+      "stamps"
+    ],
+    [
+      "topps heritage",
+      "stars"
+    ],
+    [
+      "topps heritage",
+      "the"
+    ],
+    [
+      "topps heritage",
+      "then"
+    ],
+    [
+      "topps high",
+      "octane"
+    ],
+    [
+      "topps high",
+      "tek"
+    ],
+    [
+      "topps highlight",
+      "of"
+    ],
+    [
+      "topps hills",
+      "mvp's"
+    ],
+    [
+      "topps history",
+      "of"
+    ],
+    [
+      "topps hit",
+      "parade"
+    ],
+    [
+      "topps hobby",
+      "masters"
+    ],
+    [
+      "topps holiday",
+      "metallic"
+    ],
+    [
+      "topps home",
+      "advantage"
+    ],
+    [
+      "topps home",
+      "run"
+    ],
+    [
+      "topps inception",
+      "green"
+    ],
+    [
+      "topps kaybee",
+      "kings"
+    ],
+    [
+      "topps kaybee",
+      "superstars"
+    ],
+    [
+      "topps kmart",
+      "20th"
+    ],
+    [
+      "topps kmart",
+      "25th"
+    ],
+    [
+      "topps kmart",
+      "dream"
+    ],
+    [
+      "topps kmart",
+      "memorable"
+    ],
+    [
+      "topps kmart",
+      "super"
+    ],
+    [
+      "topps laser",
+      "die"
+    ],
+    [
+      "topps league",
+      "leader"
+    ],
+    [
+      "topps legends",
+      "in"
+    ],
+    [
+      "topps major",
+      "league"
+    ],
+    [
+      "topps mcdonald's",
+      "baseball's"
+    ],
+    [
+      "topps measures",
+      "of"
+    ],
+    [
+      "topps memorable",
+      "moments"
+    ],
+    [
+      "topps micro",
+      "gold"
+    ],
+    [
+      "topps micro",
+      "micro"
+    ],
+    [
+      "topps micro",
+      "oc"
+    ],
+    [
+      "topps museum",
+      "collection"
+    ],
+    [
+      "topps my",
+      "lower"
+    ],
+    [
+      "topps mystery",
+      "finest"
+    ],
+    [
+      "topps national",
+      "sports"
+    ],
+    [
+      "topps new",
+      "york"
+    ],
+    [
+      "topps of",
+      "the"
+    ],
+    [
+      "topps opening",
+      "day"
+    ],
+    [
+      "topps own",
+      "the"
+    ],
+    [
+      "topps pack",
+      "wars"
+    ],
+    [
+      "topps picture",
+      "perfect"
+    ],
+    [
+      "topps platinum",
+      "players"
+    ],
+    [
+      "topps pressed",
+      "into"
+    ],
+    [
+      "topps pro",
+      "debut"
+    ],
+    [
+      "topps rainbow",
+      "foil"
+    ],
+    [
+      "topps record",
+      "breaker"
+    ],
+    [
+      "topps record",
+      "breakers"
+    ],
+    [
+      "topps record",
+      "numbers"
+    ],
+    [
+      "topps record",
+      "setters"
+    ],
+    [
+      "topps red",
+      "foil"
+    ],
+    [
+      "topps season",
+      "highlights"
+    ],
+    [
+      "topps season",
+      "opener"
+    ],
+    [
+      "topps season's",
+      "best"
+    ],
+    [
+      "topps significant",
+      "statistics"
+    ],
+    [
+      "topps spring",
+      "fever"
+    ],
+    [
+      "topps stars",
+      "bronze"
+    ],
+    [
+      "topps stars",
+      "gold"
+    ],
+    [
+      "topps stars",
+      "heroes"
+    ],
+    [
+      "topps stars",
+      "of"
+    ],
+    [
+      "topps stars",
+      "one"
+    ],
+    [
+      "topps stars",
+      "progression"
+    ],
+    [
+      "topps stars",
+      "silver"
+    ],
+    [
+      "topps stars",
+      "two"
+    ],
+    [
+      "topps stars",
+      "walk"
+    ],
+    [
+      "topps stickers",
+      "hard"
+    ],
+    [
+      "topps stickers",
+      "super"
+    ],
+    [
+      "topps superstar",
+      "blueprint"
+    ],
+    [
+      "topps tales",
+      "of"
+    ],
+    [
+      "topps tek",
+      "pattern"
+    ],
+    [
+      "topps ten",
+      "2nd"
+    ],
+    [
+      "topps the",
+      "future"
+    ],
+    [
+      "topps the",
+      "greatest"
+    ],
+    [
+      "topps the",
+      "your"
+    ],
+    [
+      "topps ticket",
+      "to"
+    ],
+    [
+      "topps timeless",
+      "talents"
+    ],
+    [
+      "topps tools",
+      "of"
+    ],
+    [
+      "topps topps",
+      "choice"
+    ],
+    [
+      "topps topps",
+      "collection"
+    ],
+    [
+      "topps topps",
+      "now"
+    ],
+    [
+      "topps topps",
+      "salute"
+    ],
+    [
+      "topps topps",
+      "town"
+    ],
+    [
+      "topps total",
+      "award"
+    ],
+    [
+      "topps total",
+      "blue"
+    ],
+    [
+      "topps total",
+      "checklists"
+    ],
+    [
+      "topps total",
+      "domination"
+    ],
+    [
+      "topps total",
+      "topps total"
+    ],
+    [
+      "topps total",
+      "total"
+    ],
+    [
+      "topps toys",
+      "\"r\""
+    ],
+    [
+      "topps traded",
+      "&"
+    ],
+    [
+      "topps triple",
+      "threads"
+    ],
+    [
+      "topps turkey",
+      "red"
+    ],
+    [
+      "topps turn",
+      "back"
+    ],
+    [
+      "topps uk",
+      "minis"
+    ],
+    [
+      "topps update",
+      "150"
+    ],
+    [
+      "topps update",
+      "a"
+    ],
+    [
+      "topps update",
+      "access"
+    ],
+    [
+      "topps update",
+      "action"
+    ],
+    [
+      "topps update",
+      "allstar game"
+    ],
+    [
+      "topps update",
+      "an"
+    ],
+    [
+      "topps update",
+      "attax"
+    ],
+    [
+      "topps update",
+      "blockbusters"
+    ],
+    [
+      "topps update",
+      "blue"
+    ],
+    [
+      "topps update",
+      "bryce"
+    ],
+    [
+      "topps update",
+      "chasing"
+    ],
+    [
+      "topps update",
+      "class"
+    ],
+    [
+      "topps update",
+      "decades'"
+    ],
+    [
+      "topps update",
+      "diamond"
+    ],
+    [
+      "topps update",
+      "don't"
+    ],
+    [
+      "topps update",
+      "game"
+    ],
+    [
+      "topps update",
+      "generation"
+    ],
+    [
+      "topps update",
+      "gold"
+    ],
+    [
+      "topps update",
+      "golden"
+    ],
+    [
+      "topps update",
+      "hall"
+    ],
+    [
+      "topps update",
+      "highlights"
+    ],
+    [
+      "topps update",
+      "kimball"
+    ],
+    [
+      "topps update",
+      "legends"
+    ],
+    [
+      "topps update",
+      "mvp"
+    ],
+    [
+      "topps update",
+      "mystical"
+    ],
+    [
+      "topps update",
+      "orange"
+    ],
+    [
+      "topps update",
+      "paw"
+    ],
+    [
+      "topps update",
+      "perennial"
+    ],
+    [
+      "topps update",
+      "postseason"
+    ],
+    [
+      "topps update",
+      "power"
+    ],
+    [
+      "topps update",
+      "prospects"
+    ],
+    [
+      "topps update",
+      "rainbow"
+    ],
+    [
+      "topps update",
+      "red"
+    ],
+    [
+      "topps update",
+      "royal"
+    ],
+    [
+      "topps update",
+      "salute"
+    ],
+    [
+      "topps update",
+      "sensations"
+    ],
+    [
+      "topps update",
+      "stars"
+    ],
+    [
+      "topps update",
+      "storybook"
+    ],
+    [
+      "topps update",
+      "tape"
+    ],
+    [
+      "topps update",
+      "the"
+    ],
+    [
+      "topps update",
+      "topps"
+    ],
+    [
+      "topps update",
+      "topps allrookie"
+    ],
+    [
+      "topps update",
+      "topps black"
+    ],
+    [
+      "topps update",
+      "topps cup"
+    ],
+    [
+      "topps update",
+      "turkey"
+    ],
+    [
+      "topps update",
+      "untouchables"
+    ],
+    [
+      "topps updates",
+      "&"
+    ],
+    [
+      "topps upper",
+      "class"
+    ],
+    [
+      "topps valor",
+      "gridiron"
+    ],
+    [
+      "topps valor",
+      "speed"
+    ],
+    [
+      "topps welcome",
+      "to"
+    ],
+    [
+      "topps woolworth",
+      "highlights"
+    ],
+    [
+      "bowman",
+      "1st"
+    ],
+    [
+      "bowman",
+      "30th"
+    ],
+    [
+      "bowman",
+      "arod"
+    ],
+    [
+      "bowman",
+      "black"
+    ],
+    [
+      "bowman",
+      "blue"
+    ],
+    [
+      "bowman",
+      "bowman"
+    ],
+    [
+      "bowman",
+      "bowman's best"
+    ],
+    [
+      "bowman",
+      "breakthrough"
+    ],
+    [
+      "bowman",
+      "chrome"
+    ],
+    [
+      "bowman",
+      "draft"
+    ],
+    [
+      "bowman",
+      "finest"
+    ],
+    [
+      "bowman",
+      "foil"
+    ],
+    [
+      "bowman",
+      "futurist"
+    ],
+    [
+      "bowman",
+      "gold"
+    ],
+    [
+      "bowman",
+      "green"
+    ],
+    [
+      "bowman",
+      "heritage"
+    ],
+    [
+      "bowman",
+      "hifi"
+    ],
+    [
+      "bowman",
+      "inception"
+    ],
+    [
+      "bowman",
+      "international"
+    ],
+    [
+      "bowman",
+      "interstate"
+    ],
+    [
+      "bowman",
+      "major"
+    ],
+    [
+      "bowman",
+      "mojo"
+    ],
+    [
+      "bowman",
+      "nmmt or"
+    ],
+    [
+      "bowman",
+      "of"
+    ],
+    [
+      "bowman",
+      "orange"
+    ],
+    [
+      "bowman",
+      "platinum"
+    ],
+    [
+      "bowman",
+      "powerup"
+    ],
+    [
+      "bowman",
+      "preproduction"
+    ],
+    [
+      "bowman",
+      "prospects"
+    ],
+    [
+      "bowman",
+      "purple"
+    ],
+    [
+      "bowman",
+      "rainbow"
+    ],
+    [
+      "bowman",
+      "ready"
+    ],
+    [
+      "bowman",
+      "retro future"
+    ],
+    [
+      "bowman",
+      "roy"
+    ],
+    [
+      "bowman",
+      "sapphire"
+    ],
+    [
+      "bowman",
+      "silver"
+    ],
+    [
+      "bowman",
+      "sky"
+    ],
+    [
+      "bowman",
+      "sterling"
+    ],
+    [
+      "bowman",
+      "sweepstakes"
+    ],
+    [
+      "bowman",
+      "talent"
+    ],
+    [
+      "bowman",
+      "topps"
+    ],
+    [
+      "bowman",
+      "veterans"
+    ],
+    [
+      "bowman",
+      "virtuosic"
+    ],
+    [
+      "bowman 1951",
+      "bowman chrome"
+    ],
+    [
+      "bowman bowman",
+      "a.i."
+    ],
+    [
+      "bowman bowman",
+      "chrome"
+    ],
+    [
+      "bowman bowman",
+      "scouts"
+    ],
+    [
+      "bowman bowman",
+      "scouts'"
+    ],
+    [
+      "bowman chrome",
+      "40man"
+    ],
+    [
+      "bowman chrome",
+      "arod"
+    ],
+    [
+      "bowman chrome",
+      "autograph"
+    ],
+    [
+      "bowman chrome",
+      "autographs"
+    ],
+    [
+      "bowman chrome",
+      "base"
+    ],
+    [
+      "bowman chrome",
+      "bowman"
+    ],
+    [
+      "bowman chrome",
+      "bowman chrome"
+    ],
+    [
+      "bowman chrome",
+      "bowman sterling"
+    ],
+    [
+      "bowman chrome",
+      "bowman's best"
+    ],
+    [
+      "bowman chrome",
+      "draft picks"
+    ],
+    [
+      "bowman chrome",
+      "franchise"
+    ],
+    [
+      "bowman chrome",
+      "future"
+    ],
+    [
+      "bowman chrome",
+      "futures"
+    ],
+    [
+      "bowman chrome",
+      "futurist"
+    ],
+    [
+      "bowman chrome",
+      "international"
+    ],
+    [
+      "bowman chrome",
+      "legends"
+    ],
+    [
+      "bowman chrome",
+      "mini"
+    ],
+    [
+      "bowman chrome",
+      "minis"
+    ],
+    [
+      "bowman chrome",
+      "of"
+    ],
+    [
+      "bowman chrome",
+      "peaks"
+    ],
+    [
+      "bowman chrome",
+      "prospects"
+    ],
+    [
+      "bowman chrome",
+      "recollections"
+    ],
+    [
+      "bowman chrome",
+      "scout's"
+    ],
+    [
+      "bowman chrome",
+      "scouts"
+    ],
+    [
+      "bowman chrome",
+      "scouts'"
+    ],
+    [
+      "bowman chrome",
+      "top"
+    ],
+    [
+      "bowman chrome",
+      "wbc"
+    ],
+    [
+      "bowman draft",
+      "1st"
+    ],
+    [
+      "bowman draft",
+      "aqua"
+    ],
+    [
+      "bowman draft",
+      "bowman"
+    ],
+    [
+      "bowman draft",
+      "chrome"
+    ],
+    [
+      "bowman draft",
+      "heir"
+    ],
+    [
+      "bowman draft",
+      "picks"
+    ],
+    [
+      "bowman draft",
+      "red"
+    ],
+    [
+      "bowman draft",
+      "teams"
+    ],
+    [
+      "bowman draft",
+      "top"
+    ],
+    [
+      "bowman foil",
+      "father"
+    ],
+    [
+      "bowman gold",
+      "foil"
+    ],
+    [
+      "bowman heritage",
+      "chrome"
+    ],
+    [
+      "bowman heritage",
+      "color"
+    ],
+    [
+      "bowman heritage",
+      "facsimile"
+    ],
+    [
+      "bowman heritage",
+      "mini"
+    ],
+    [
+      "bowman hifi",
+      "futures"
+    ],
+    [
+      "bowman international",
+      "best"
+    ],
+    [
+      "bowman mojo",
+      "refractors"
+    ],
+    [
+      "bowman of",
+      "the"
+    ],
+    [
+      "bowman platinum",
+      "bowman's"
+    ],
+    [
+      "bowman platinum",
+      "cutting"
+    ],
+    [
+      "bowman platinum",
+      "gold"
+    ],
+    [
+      "bowman platinum",
+      "ice"
+    ],
+    [
+      "bowman platinum",
+      "new"
+    ],
+    [
+      "bowman platinum",
+      "next"
+    ],
+    [
+      "bowman platinum",
+      "pink"
+    ],
+    [
+      "bowman platinum",
+      "platinum"
+    ],
+    [
+      "bowman platinum",
+      "precious"
+    ],
+    [
+      "bowman platinum",
+      "prospects"
+    ],
+    [
+      "bowman platinum",
+      "radar"
+    ],
+    [
+      "bowman platinum",
+      "refractor"
+    ],
+    [
+      "bowman platinum",
+      "renowned"
+    ],
+    [
+      "bowman platinum",
+      "top"
+    ],
+    [
+      "bowman prospects",
+      "blue"
+    ],
+    [
+      "bowman prospects",
+      "chrome"
+    ],
+    [
+      "bowman prospects",
+      "fuchsia"
+    ],
+    [
+      "bowman prospects",
+      "orange"
+    ],
+    [
+      "bowman prospects",
+      "pink"
+    ],
+    [
+      "bowman prospects",
+      "silver"
+    ],
+    [
+      "bowman ready",
+      "for"
+    ],
+    [
+      "bowman roy",
+      "favorites"
+    ],
+    [
+      "bowman sky",
+      "blue"
+    ],
+    [
+      "bowman sterling",
+      "autographs"
+    ],
+    [
+      "bowman talent",
+      "pipeline"
+    ],
+    [
+      "bowman topps",
+      "100"
+    ],
+    [
+      "bowman virtuosic",
+      "vibrations"
+    ],
+    [
+      "bowman's",
+      "best"
+    ],
+    [
+      "bowman's best",
+      "america\u2019s"
+    ],
+    [
+      "bowman's best",
+      "best"
+    ],
+    [
+      "bowman's best",
+      "bowman"
+    ],
+    [
+      "bowman's best",
+      "cuts"
+    ],
+    [
+      "bowman's best",
+      "impact"
+    ],
+    [
+      "bowman's best",
+      "masterpieces"
+    ],
+    [
+      "bowman's best",
+      "mirror"
+    ],
+    [
+      "bowman's best",
+      "power"
+    ],
+    [
+      "bowman's best",
+      "purple"
+    ],
+    [
+      "bowman's best",
+      "refractor"
+    ],
+    [
+      "bowman's best",
+      "refractors"
+    ],
+    [
+      "bowman's best",
+      "top"
+    ],
+    [
+      "bowman's best",
+      "year"
+    ],
+    [
+      "panini",
+      "absolute"
+    ],
+    [
+      "panini",
+      "accolades"
+    ],
+    [
+      "panini",
+      "adrenalyn"
+    ],
+    [
+      "panini",
+      "black"
+    ],
+    [
+      "panini",
+      "canadian"
+    ],
+    [
+      "panini",
+      "capstone"
+    ],
+    [
+      "panini",
+      "certified"
+    ],
+    [
+      "panini",
+      "chronicles"
+    ],
+    [
+      "panini",
+      "classics"
+    ],
+    [
+      "panini",
+      "clear"
+    ],
+    [
+      "panini",
+      "collection"
+    ],
+    [
+      "panini",
+      "contenders"
+    ],
+    [
+      "panini",
+      "cooperstown"
+    ],
+    [
+      "panini",
+      "crown"
+    ],
+    [
+      "panini",
+      "decorated"
+    ],
+    [
+      "panini",
+      "diamond"
+    ],
+    [
+      "panini",
+      "donruss"
+    ],
+    [
+      "panini",
+      "draft"
+    ],
+    [
+      "panini",
+      "elements"
+    ],
+    [
+      "panini",
+      "elite"
+    ],
+    [
+      "panini",
+      "father's"
+    ],
+    [
+      "panini",
+      "gold"
+    ],
+    [
+      "panini",
+      "gridiron"
+    ],
+    [
+      "panini",
+      "highlights"
+    ],
+    [
+      "panini",
+      "hometown"
+    ],
+    [
+      "panini",
+      "illusions"
+    ],
+    [
+      "panini",
+      "leather"
+    ],
+    [
+      "panini",
+      "legacy"
+    ],
+    [
+      "panini",
+      "legends"
+    ],
+    [
+      "panini",
+      "luminance"
+    ],
+    [
+      "panini",
+      "monopoly"
+    ],
+    [
+      "panini",
+      "mosaic"
+    ],
+    [
+      "panini",
+      "national"
+    ],
+    [
+      "panini",
+      "obsidian"
+    ],
+    [
+      "panini",
+      "origins"
+    ],
+    [
+      "panini",
+      "phoenix"
+    ],
+    [
+      "panini",
+      "photogenic"
+    ],
+    [
+      "panini",
+      "plates"
+    ],
+    [
+      "panini",
+      "playbook"
+    ],
+    [
+      "panini",
+      "playoff"
+    ],
+    [
+      "panini",
+      "prestige"
+    ],
+    [
+      "panini",
+      "prizm"
+    ],
+    [
+      "panini",
+      "rookies"
+    ],
+    [
+      "panini",
+      "school"
+    ],
+    [
+      "panini",
+      "select"
+    ],
+    [
+      "panini",
+      "shining"
+    ],
+    [
+      "panini",
+      "spectra"
+    ],
+    [
+      "panini",
+      "stickers"
+    ],
+    [
+      "panini",
+      "the"
+    ],
+    [
+      "panini",
+      "threads"
+    ],
+    [
+      "panini",
+      "totally"
+    ],
+    [
+      "panini",
+      "triple play"
+    ],
+    [
+      "panini",
+      "unparalleled"
+    ],
+    [
+      "panini",
+      "usa"
+    ],
+    [
+      "panini absolute",
+      "blue"
+    ],
+    [
+      "panini absolute",
+      "by"
+    ],
+    [
+      "panini absolute",
+      "diecut"
+    ],
+    [
+      "panini absolute",
+      "extreme"
+    ],
+    [
+      "panini absolute",
+      "fantasy"
+    ],
+    [
+      "panini absolute",
+      "gazing"
+    ],
+    [
+      "panini absolute",
+      "green"
+    ],
+    [
+      "panini absolute",
+      "historical"
+    ],
+    [
+      "panini absolute",
+      "icons"
+    ],
+    [
+      "panini absolute",
+      "introductions"
+    ],
+    [
+      "panini absolute",
+      "lava"
+    ],
+    [
+      "panini absolute",
+      "memorabilia"
+    ],
+    [
+      "panini absolute",
+      "orange"
+    ],
+    [
+      "panini absolute",
+      "purple"
+    ],
+    [
+      "panini absolute",
+      "red"
+    ],
+    [
+      "panini absolute",
+      "retail"
+    ],
+    [
+      "panini absolute",
+      "spectrum"
+    ],
+    [
+      "panini absolute",
+      "statistically"
+    ],
+    [
+      "panini canadian",
+      "top"
+    ],
+    [
+      "panini capstone",
+      "crest"
+    ],
+    [
+      "panini certified",
+      "certified"
+    ],
+    [
+      "panini certified",
+      "college"
+    ],
+    [
+      "panini certified",
+      "dark"
+    ],
+    [
+      "panini certified",
+      "freshman"
+    ],
+    [
+      "panini certified",
+      "mirror"
+    ],
+    [
+      "panini certified",
+      "seal"
+    ],
+    [
+      "panini chronicles",
+      "bronze"
+    ],
+    [
+      "panini chronicles",
+      "certified"
+    ],
+    [
+      "panini chronicles",
+      "chronicles"
+    ],
+    [
+      "panini chronicles",
+      "classics"
+    ],
+    [
+      "panini chronicles",
+      "clear"
+    ],
+    [
+      "panini chronicles",
+      "clearly"
+    ],
+    [
+      "panini chronicles",
+      "contenders"
+    ],
+    [
+      "panini chronicles",
+      "crusade"
+    ],
+    [
+      "panini chronicles",
+      "draft"
+    ],
+    [
+      "panini chronicles",
+      "draft picks"
+    ],
+    [
+      "panini chronicles",
+      "flux"
+    ],
+    [
+      "panini chronicles",
+      "green"
+    ],
+    [
+      "panini chronicles",
+      "gridiron"
+    ],
+    [
+      "panini chronicles",
+      "illusions"
+    ],
+    [
+      "panini chronicles",
+      "legacy"
+    ],
+    [
+      "panini chronicles",
+      "luminance"
+    ],
+    [
+      "panini chronicles",
+      "magnitude"
+    ],
+    [
+      "panini chronicles",
+      "marquee"
+    ],
+    [
+      "panini chronicles",
+      "obsidian"
+    ],
+    [
+      "panini chronicles",
+      "panini"
+    ],
+    [
+      "panini chronicles",
+      "phoenix"
+    ],
+    [
+      "panini chronicles",
+      "photogenic"
+    ],
+    [
+      "panini chronicles",
+      "pink"
+    ],
+    [
+      "panini chronicles",
+      "pinnacle"
+    ],
+    [
+      "panini chronicles",
+      "playbook"
+    ],
+    [
+      "panini chronicles",
+      "playoff"
+    ],
+    [
+      "panini chronicles",
+      "playoff momentum"
+    ],
+    [
+      "panini chronicles",
+      "prestige"
+    ],
+    [
+      "panini chronicles",
+      "prizm"
+    ],
+    [
+      "panini chronicles",
+      "revolution"
+    ],
+    [
+      "panini chronicles",
+      "rookies"
+    ],
+    [
+      "panini chronicles",
+      "score"
+    ],
+    [
+      "panini chronicles",
+      "score premium"
+    ],
+    [
+      "panini chronicles",
+      "spectra"
+    ],
+    [
+      "panini chronicles",
+      "status"
+    ],
+    [
+      "panini chronicles",
+      "teal"
+    ],
+    [
+      "panini chronicles",
+      "timeless"
+    ],
+    [
+      "panini chronicles",
+      "titan"
+    ],
+    [
+      "panini chronicles",
+      "titanium"
+    ],
+    [
+      "panini chronicles",
+      "unparalleled"
+    ],
+    [
+      "panini chronicles",
+      "vertex"
+    ],
+    [
+      "panini chronicles",
+      "wwe"
+    ],
+    [
+      "panini classics",
+      "classic"
+    ],
+    [
+      "panini classics",
+      "composers"
+    ],
+    [
+      "panini classics",
+      "eras"
+    ],
+    [
+      "panini classics",
+      "glossy"
+    ],
+    [
+      "panini classics",
+      "idolized"
+    ],
+    [
+      "panini classics",
+      "legends"
+    ],
+    [
+      "panini classics",
+      "monday"
+    ],
+    [
+      "panini classics",
+      "october"
+    ],
+    [
+      "panini classics",
+      "premium"
+    ],
+    [
+      "panini classics",
+      "record"
+    ],
+    [
+      "panini classics",
+      "red"
+    ],
+    [
+      "panini classics",
+      "the"
+    ],
+    [
+      "panini classics",
+      "tributes"
+    ],
+    [
+      "panini clear",
+      "vision"
+    ],
+    [
+      "panini contenders",
+      "blue"
+    ],
+    [
+      "panini contenders",
+      "championship"
+    ],
+    [
+      "panini contenders",
+      "draft"
+    ],
+    [
+      "panini contenders",
+      "draft class"
+    ],
+    [
+      "panini contenders",
+      "draft picks"
+    ],
+    [
+      "panini contenders",
+      "game"
+    ],
+    [
+      "panini contenders",
+      "legendary"
+    ],
+    [
+      "panini contenders",
+      "mvp"
+    ],
+    [
+      "panini contenders",
+      "optic"
+    ],
+    [
+      "panini contenders",
+      "pennants"
+    ],
+    [
+      "panini contenders",
+      "round"
+    ],
+    [
+      "panini contenders",
+      "season"
+    ],
+    [
+      "panini contenders",
+      "supernatural"
+    ],
+    [
+      "panini contenders",
+      "touchdown"
+    ],
+    [
+      "panini contenders",
+      "winning"
+    ],
+    [
+      "panini crown",
+      "royale"
+    ],
+    [
+      "panini diamond",
+      "kings"
+    ],
+    [
+      "panini donruss",
+      "optic"
+    ],
+    [
+      "panini donruss",
+      "press"
+    ],
+    [
+      "panini elite",
+      "draft picks"
+    ],
+    [
+      "panini elite",
+      "extra"
+    ],
+    [
+      "panini gold",
+      "standard"
+    ],
+    [
+      "panini gridiron",
+      "gear"
+    ],
+    [
+      "panini gridiron",
+      "kings"
+    ],
+    [
+      "panini hometown",
+      "heroes"
+    ],
+    [
+      "panini illusions",
+      "astounding"
+    ],
+    [
+      "panini illusions",
+      "black"
+    ],
+    [
+      "panini illusions",
+      "endorsements"
+    ],
+    [
+      "panini illusions",
+      "game"
+    ],
+    [
+      "panini illusions",
+      "gold"
+    ],
+    [
+      "panini illusions",
+      "green"
+    ],
+    [
+      "panini illusions",
+      "illusionists"
+    ],
+    [
+      "panini illusions",
+      "mystique"
+    ],
+    [
+      "panini illusions",
+      "retail"
+    ],
+    [
+      "panini illusions",
+      "teal"
+    ],
+    [
+      "panini illusions",
+      "trophy"
+    ],
+    [
+      "panini legacy",
+      "for"
+    ],
+    [
+      "panini legacy",
+      "lasting"
+    ],
+    [
+      "panini luminance",
+      "vintage"
+    ],
+    [
+      "panini monopoly",
+      "gold"
+    ],
+    [
+      "panini mosaic",
+      "aces"
+    ],
+    [
+      "panini mosaic",
+      "alltime"
+    ],
+    [
+      "panini mosaic",
+      "autographs"
+    ],
+    [
+      "panini mosaic",
+      "bang!"
+    ],
+    [
+      "panini mosaic",
+      "big"
+    ],
+    [
+      "panini mosaic",
+      "blue"
+    ],
+    [
+      "panini mosaic",
+      "camo"
+    ],
+    [
+      "panini mosaic",
+      "capital"
+    ],
+    [
+      "panini mosaic",
+      "choice"
+    ],
+    [
+      "panini mosaic",
+      "debut"
+    ],
+    [
+      "panini mosaic",
+      "draft"
+    ],
+    [
+      "panini mosaic",
+      "elevate"
+    ],
+    [
+      "panini mosaic",
+      "epic"
+    ],
+    [
+      "panini mosaic",
+      "flea"
+    ],
+    [
+      "panini mosaic",
+      "got"
+    ],
+    [
+      "panini mosaic",
+      "green"
+    ],
+    [
+      "panini mosaic",
+      "holofame"
+    ],
+    [
+      "panini mosaic",
+      "hot"
+    ],
+    [
+      "panini mosaic",
+      "man"
+    ],
+    [
+      "panini mosaic",
+      "moments"
+    ],
+    [
+      "panini mosaic",
+      "mosaic"
+    ],
+    [
+      "panini mosaic",
+      "mvps"
+    ],
+    [
+      "panini mosaic",
+      "national"
+    ],
+    [
+      "panini mosaic",
+      "pink"
+    ],
+    [
+      "panini mosaic",
+      "prizm"
+    ],
+    [
+      "panini mosaic",
+      "reactive"
+    ],
+    [
+      "panini mosaic",
+      "silver"
+    ],
+    [
+      "panini mosaic",
+      "stare"
+    ],
+    [
+      "panini mosaic",
+      "thunder"
+    ],
+    [
+      "panini mosaic",
+      "touchdown"
+    ],
+    [
+      "panini mosaic",
+      "will"
+    ],
+    [
+      "panini phoenix",
+      "fire"
+    ],
+    [
+      "panini phoenix",
+      "flame"
+    ],
+    [
+      "panini playbook",
+      "orange"
+    ],
+    [
+      "panini playbook",
+      "purple"
+    ],
+    [
+      "panini playbook",
+      "zoning"
+    ],
+    [
+      "panini playoff",
+      "flea"
+    ],
+    [
+      "panini playoff",
+      "gazing"
+    ],
+    [
+      "panini playoff",
+      "goal"
+    ],
+    [
+      "panini playoff",
+      "playoff momentum"
+    ],
+    [
+      "panini playoff",
+      "red"
+    ],
+    [
+      "panini playoff",
+      "thunder"
+    ],
+    [
+      "panini prestige",
+      "alma"
+    ],
+    [
+      "panini prestige",
+      "any"
+    ],
+    [
+      "panini prestige",
+      "connections"
+    ],
+    [
+      "panini prestige",
+      "for"
+    ],
+    [
+      "panini prestige",
+      "franchise"
+    ],
+    [
+      "panini prestige",
+      "heroes"
+    ],
+    [
+      "panini prestige",
+      "highlight"
+    ],
+    [
+      "panini prestige",
+      "league"
+    ],
+    [
+      "panini prestige",
+      "living"
+    ],
+    [
+      "panini prestige",
+      "living legends"
+    ],
+    [
+      "panini prestige",
+      "old"
+    ],
+    [
+      "panini prestige",
+      "power"
+    ],
+    [
+      "panini prestige",
+      "prestigious"
+    ],
+    [
+      "panini prestige",
+      "rising"
+    ],
+    [
+      "panini prestige",
+      "seasons"
+    ],
+    [
+      "panini prestige",
+      "stars"
+    ],
+    [
+      "panini prestige",
+      "time"
+    ],
+    [
+      "panini prestige",
+      "xtra"
+    ],
+    [
+      "panini prestige",
+      "youth"
+    ],
+    [
+      "panini prizm",
+      "black"
+    ],
+    [
+      "panini prizm",
+      "blue"
+    ],
+    [
+      "panini prizm",
+      "brilliance"
+    ],
+    [
+      "panini prizm",
+      "class"
+    ],
+    [
+      "panini prizm",
+      "collegiate"
+    ],
+    [
+      "panini prizm",
+      "decade"
+    ],
+    [
+      "panini prizm",
+      "draft"
+    ],
+    [
+      "panini prizm",
+      "draft picks"
+    ],
+    [
+      "panini prizm",
+      "emergent"
+    ],
+    [
+      "panini prizm",
+      "fearless"
+    ],
+    [
+      "panini prizm",
+      "fifa"
+    ],
+    [
+      "panini prizm",
+      "fireworks"
+    ],
+    [
+      "panini prizm",
+      "gazing"
+    ],
+    [
+      "panini prizm",
+      "gear"
+    ],
+    [
+      "panini prizm",
+      "go"
+    ],
+    [
+      "panini prizm",
+      "green"
+    ],
+    [
+      "panini prizm",
+      "hall"
+    ],
+    [
+      "panini prizm",
+      "hype"
+    ],
+    [
+      "panini prizm",
+      "illumination"
+    ],
+    [
+      "panini prizm",
+      "instant"
+    ],
+    [
+      "panini prizm",
+      "jerseys"
+    ],
+    [
+      "panini prizm",
+      "lumber"
+    ],
+    [
+      "panini prizm",
+      "monday"
+    ],
+    [
+      "panini prizm",
+      "monopoly"
+    ],
+    [
+      "panini prizm",
+      "old"
+    ],
+    [
+      "panini prizm",
+      "pandora"
+    ],
+    [
+      "panini prizm",
+      "portals"
+    ],
+    [
+      "panini prizm",
+      "pot"
+    ],
+    [
+      "panini prizm",
+      "prizm"
+    ],
+    [
+      "panini prizm",
+      "prizmatic"
+    ],
+    [
+      "panini prizm",
+      "purple"
+    ],
+    [
+      "panini prizm",
+      "red"
+    ],
+    [
+      "panini prizm",
+      "red white blue"
+    ],
+    [
+      "panini prizm",
+      "rize"
+    ],
+    [
+      "panini prizm",
+      "silver"
+    ],
+    [
+      "panini prizm",
+      "sluggers"
+    ],
+    [
+      "panini prizm",
+      "sp"
+    ],
+    [
+      "panini prizm",
+      "tier"
+    ],
+    [
+      "panini prizm",
+      "top"
+    ],
+    [
+      "panini prizm",
+      "usa"
+    ],
+    [
+      "panini prizm",
+      "white"
+    ],
+    [
+      "panini prizm",
+      "wnba"
+    ],
+    [
+      "panini rookies",
+      "&"
+    ],
+    [
+      "panini rookies",
+      "stars"
+    ],
+    [
+      "panini select",
+      "25man"
+    ],
+    [
+      "panini select",
+      "black"
+    ],
+    [
+      "panini select",
+      "blue"
+    ],
+    [
+      "panini select",
+      "certified"
+    ],
+    [
+      "panini select",
+      "club"
+    ],
+    [
+      "panini select",
+      "concourse"
+    ],
+    [
+      "panini select",
+      "diamond"
+    ],
+    [
+      "panini select",
+      "draft"
+    ],
+    [
+      "panini select",
+      "draft picks"
+    ],
+    [
+      "panini select",
+      "field"
+    ],
+    [
+      "panini select",
+      "green"
+    ],
+    [
+      "panini select",
+      "hot"
+    ],
+    [
+      "panini select",
+      "level"
+    ],
+    [
+      "panini select",
+      "light blue"
+    ],
+    [
+      "panini select",
+      "maroon"
+    ],
+    [
+      "panini select",
+      "moon"
+    ],
+    [
+      "panini select",
+      "purple"
+    ],
+    [
+      "panini select",
+      "red"
+    ],
+    [
+      "panini select",
+      "select"
+    ],
+    [
+      "panini select",
+      "sensations"
+    ],
+    [
+      "panini select",
+      "silver"
+    ],
+    [
+      "panini select",
+      "snapshots"
+    ],
+    [
+      "panini select",
+      "turbocharged"
+    ],
+    [
+      "panini select",
+      "uefa"
+    ],
+    [
+      "panini select",
+      "ufc"
+    ],
+    [
+      "panini spectra",
+      "brilliance"
+    ],
+    [
+      "panini spectra",
+      "immense"
+    ],
+    [
+      "panini stickers",
+      "nmmint"
+    ],
+    [
+      "panini totally",
+      "certified"
+    ],
+    [
+      "panini unparalleled",
+      "factor"
+    ],
+    [
+      "panini unparalleled",
+      "lime"
+    ],
+    [
+      "panini unparalleled",
+      "pink"
+    ],
+    [
+      "panini usa",
+      "stars"
+    ],
+    [
+      "donruss",
+      "'ichi'"
+    ],
+    [
+      "donruss",
+      "40 40"
+    ],
+    [
+      "donruss",
+      "90's"
+    ],
+    [
+      "donruss",
+      "action"
+    ],
+    [
+      "donruss",
+      "allstar"
+    ],
+    [
+      "donruss",
+      "allstars"
+    ],
+    [
+      "donruss",
+      "alltime"
+    ],
+    [
+      "donruss",
+      "award"
+    ],
+    [
+      "donruss",
+      "baseball's"
+    ],
+    [
+      "donruss",
+      "best"
+    ],
+    [
+      "donruss",
+      "black"
+    ],
+    [
+      "donruss",
+      "blue"
+    ],
+    [
+      "donruss",
+      "bonus"
+    ],
+    [
+      "donruss",
+      "career"
+    ],
+    [
+      "donruss",
+      "certified"
+    ],
+    [
+      "donruss",
+      "champions"
+    ],
+    [
+      "donruss",
+      "checklist"
+    ],
+    [
+      "donruss",
+      "class"
+    ],
+    [
+      "donruss",
+      "classics"
+    ],
+    [
+      "donruss",
+      "cocacola"
+    ],
+    [
+      "donruss",
+      "collections"
+    ],
+    [
+      "donruss",
+      "cracker"
+    ],
+    [
+      "donruss",
+      "cyan"
+    ],
+    [
+      "donruss",
+      "dark"
+    ],
+    [
+      "donruss",
+      "diamond"
+    ],
+    [
+      "donruss",
+      "dominators"
+    ],
+    [
+      "donruss",
+      "donruss threads"
+    ],
+    [
+      "donruss",
+      "el"
+    ],
+    [
+      "donruss",
+      "elite"
+    ],
+    [
+      "donruss",
+      "fan"
+    ],
+    [
+      "donruss",
+      "franchise"
+    ],
+    [
+      "donruss",
+      "grand"
+    ],
+    [
+      "donruss",
+      "greats"
+    ],
+    [
+      "donruss",
+      "gridiron"
+    ],
+    [
+      "donruss",
+      "ground"
+    ],
+    [
+      "donruss",
+      "hall"
+    ],
+    [
+      "donruss",
+      "heroes"
+    ],
+    [
+      "donruss",
+      "highlights"
+    ],
+    [
+      "donruss",
+      "hit"
+    ],
+    [
+      "donruss",
+      "holiday"
+    ],
+    [
+      "donruss",
+      "holo"
+    ],
+    [
+      "donruss",
+      "independence"
+    ],
+    [
+      "donruss",
+      "inducted"
+    ],
+    [
+      "donruss",
+      "king"
+    ],
+    [
+      "donruss",
+      "leaf"
+    ],
+    [
+      "donruss",
+      "learning"
+    ],
+    [
+      "donruss",
+      "leather"
+    ],
+    [
+      "donruss",
+      "legends"
+    ],
+    [
+      "donruss",
+      "locked"
+    ],
+    [
+      "donruss",
+      "long"
+    ],
+    [
+      "donruss",
+      "longball"
+    ],
+    [
+      "donruss",
+      "marvels"
+    ],
+    [
+      "donruss",
+      "masters"
+    ],
+    [
+      "donruss",
+      "millville"
+    ],
+    [
+      "donruss",
+      "mondo"
+    ],
+    [
+      "donruss",
+      "mvp"
+    ],
+    [
+      "donruss",
+      "mvps"
+    ],
+    [
+      "donruss",
+      "my"
+    ],
+    [
+      "donruss",
+      "name"
+    ],
+    [
+      "donruss",
+      "new york"
+    ],
+    [
+      "donruss",
+      "opening"
+    ],
+    [
+      "donruss",
+      "optic"
+    ],
+    [
+      "donruss",
+      "originals"
+    ],
+    [
+      "donruss",
+      "peyton"
+    ],
+    [
+      "donruss",
+      "phenom"
+    ],
+    [
+      "donruss",
+      "power"
+    ],
+    [
+      "donruss",
+      "preferred"
+    ],
+    [
+      "donruss",
+      "premium"
+    ],
+    [
+      "donruss",
+      "press"
+    ],
+    [
+      "donruss",
+      "production"
+    ],
+    [
+      "donruss",
+      "rare"
+    ],
+    [
+      "donruss",
+      "rated"
+    ],
+    [
+      "donruss",
+      "red"
+    ],
+    [
+      "donruss",
+      "retro"
+    ],
+    [
+      "donruss",
+      "reverse"
+    ],
+    [
+      "donruss",
+      "revolution"
+    ],
+    [
+      "donruss",
+      "samples"
+    ],
+    [
+      "donruss",
+      "season"
+    ],
+    [
+      "donruss",
+      "sets"
+    ],
+    [
+      "donruss",
+      "signature"
+    ],
+    [
+      "donruss",
+      "snow"
+    ],
+    [
+      "donruss",
+      "sp"
+    ],
+    [
+      "donruss",
+      "spirit"
+    ],
+    [
+      "donruss",
+      "stat"
+    ],
+    [
+      "donruss",
+      "studio"
+    ],
+    [
+      "donruss",
+      "the"
+    ],
+    [
+      "donruss",
+      "threads"
+    ],
+    [
+      "donruss",
+      "throwback"
+    ],
+    [
+      "donruss",
+      "top"
+    ],
+    [
+      "donruss",
+      "unleashed"
+    ],
+    [
+      "donruss",
+      "vxp"
+    ],
+    [
+      "donruss",
+      "world"
+    ],
+    [
+      "donruss",
+      "zenith"
+    ],
+    [
+      "donruss 1981",
+      "tribute"
+    ],
+    [
+      "donruss 1988",
+      "tribute"
+    ],
+    [
+      "donruss 2000",
+      "retro"
+    ],
+    [
+      "donruss 90's",
+      "dominators"
+    ],
+    [
+      "donruss allstars",
+      "3x5"
+    ],
+    [
+      "donruss allstars",
+      "popups"
+    ],
+    [
+      "donruss allstars",
+      "silver"
+    ],
+    [
+      "donruss allstars",
+      "stars"
+    ],
+    [
+      "donruss alltime",
+      "gridiron"
+    ],
+    [
+      "donruss award",
+      "winner"
+    ],
+    [
+      "donruss baseball's",
+      "best"
+    ],
+    [
+      "donruss best",
+      "of"
+    ],
+    [
+      "donruss bonus",
+      "mvp's"
+    ],
+    [
+      "donruss bonus",
+      "mvps"
+    ],
+    [
+      "donruss certified",
+      "cuts"
+    ],
+    [
+      "donruss champions",
+      "impressions"
+    ],
+    [
+      "donruss class",
+      "of"
+    ],
+    [
+      "donruss cocacola",
+      "nolan"
+    ],
+    [
+      "donruss collections",
+      "donruss"
+    ],
+    [
+      "donruss collections",
+      "elite"
+    ],
+    [
+      "donruss collections",
+      "leaf"
+    ],
+    [
+      "donruss diamond",
+      "kings"
+    ],
+    [
+      "donruss elite",
+      "aspirations"
+    ],
+    [
+      "donruss elite",
+      "career"
+    ],
+    [
+      "donruss elite",
+      "elite"
+    ],
+    [
+      "donruss elite",
+      "extra"
+    ],
+    [
+      "donruss elite",
+      "face"
+    ],
+    [
+      "donruss elite",
+      "field"
+    ],
+    [
+      "donruss elite",
+      "full"
+    ],
+    [
+      "donruss elite",
+      "green"
+    ],
+    [
+      "donruss elite",
+      "pink"
+    ],
+    [
+      "donruss elite",
+      "playmakers"
+    ],
+    [
+      "donruss elite",
+      "retail"
+    ],
+    [
+      "donruss elite",
+      "sn"
+    ],
+    [
+      "donruss elite",
+      "spellbound"
+    ],
+    [
+      "donruss elite",
+      "status"
+    ],
+    [
+      "donruss elite",
+      "title"
+    ],
+    [
+      "donruss fan",
+      "club"
+    ],
+    [
+      "donruss grand",
+      "slammers"
+    ],
+    [
+      "donruss gridiron",
+      "kings"
+    ],
+    [
+      "donruss hall",
+      "worthy"
+    ],
+    [
+      "donruss hit",
+      "list"
+    ],
+    [
+      "donruss holo",
+      "blue"
+    ],
+    [
+      "donruss holo",
+      "carolina"
+    ],
+    [
+      "donruss holo",
+      "green"
+    ],
+    [
+      "donruss holo",
+      "orange"
+    ],
+    [
+      "donruss holo",
+      "pink"
+    ],
+    [
+      "donruss holo",
+      "purple"
+    ],
+    [
+      "donruss holo",
+      "red"
+    ],
+    [
+      "donruss independence",
+      "day"
+    ],
+    [
+      "donruss inducted",
+      "class"
+    ],
+    [
+      "donruss leaf",
+      "previews"
+    ],
+    [
+      "donruss leather",
+      "&"
+    ],
+    [
+      "donruss legends",
+      "of"
+    ],
+    [
+      "donruss locked",
+      "&"
+    ],
+    [
+      "donruss long",
+      "ball"
+    ],
+    [
+      "donruss opening",
+      "day"
+    ],
+    [
+      "donruss optic",
+      "aqua"
+    ],
+    [
+      "donruss optic",
+      "bomb"
+    ],
+    [
+      "donruss optic",
+      "diamond"
+    ],
+    [
+      "donruss optic",
+      "dominators"
+    ],
+    [
+      "donruss optic",
+      "elite"
+    ],
+    [
+      "donruss optic",
+      "first"
+    ],
+    [
+      "donruss optic",
+      "gifted"
+    ],
+    [
+      "donruss optic",
+      "holo"
+    ],
+    [
+      "donruss optic",
+      "legends"
+    ],
+    [
+      "donruss optic",
+      "lights"
+    ],
+    [
+      "donruss optic",
+      "lime"
+    ],
+    [
+      "donruss optic",
+      "looking"
+    ],
+    [
+      "donruss optic",
+      "mythical"
+    ],
+    [
+      "donruss optic",
+      "phenoms"
+    ],
+    [
+      "donruss optic",
+      "pink"
+    ],
+    [
+      "donruss optic",
+      "purple"
+    ],
+    [
+      "donruss optic",
+      "rated"
+    ],
+    [
+      "donruss optic",
+      "retro"
+    ],
+    [
+      "donruss optic",
+      "spirit"
+    ],
+    [
+      "donruss optic",
+      "splash"
+    ],
+    [
+      "donruss optic",
+      "stained"
+    ],
+    [
+      "donruss optic",
+      "stars"
+    ],
+    [
+      "donruss optic",
+      "the"
+    ],
+    [
+      "donruss optic",
+      "tminus"
+    ],
+    [
+      "donruss optic",
+      "unleashed"
+    ],
+    [
+      "donruss originals",
+      "aqueous"
+    ],
+    [
+      "donruss originals",
+      "hit"
+    ],
+    [
+      "donruss peyton",
+      "manning"
+    ],
+    [
+      "donruss phenom",
+      "jerseys"
+    ],
+    [
+      "donruss power",
+      "alley"
+    ],
+    [
+      "donruss power",
+      "plus"
+    ],
+    [
+      "donruss preferred",
+      "cut"
+    ],
+    [
+      "donruss preferred",
+      "grandstand"
+    ],
+    [
+      "donruss preferred",
+      "national"
+    ],
+    [
+      "donruss preferred",
+      "qbc"
+    ],
+    [
+      "donruss premium",
+      "press"
+    ],
+    [
+      "donruss press",
+      "proof"
+    ],
+    [
+      "donruss press",
+      "proofs"
+    ],
+    [
+      "donruss rare",
+      "design"
+    ],
+    [
+      "donruss rated",
+      "rookies"
+    ],
+    [
+      "donruss red",
+      "and"
+    ],
+    [
+      "donruss red",
+      "press"
+    ],
+    [
+      "donruss retro",
+      "variations"
+    ],
+    [
+      "donruss spirit",
+      "of"
+    ],
+    [
+      "donruss stat",
+      "line"
+    ],
+    [
+      "donruss studio",
+      "previews"
+    ],
+    [
+      "donruss studio",
+      "stars"
+    ],
+    [
+      "donruss the",
+      "beautiful"
+    ],
+    [
+      "donruss the",
+      "elite"
+    ],
+    [
+      "donruss the",
+      "legends"
+    ],
+    [
+      "donruss the",
+      "prospects"
+    ],
+    [
+      "donruss the",
+      "rookies"
+    ],
+    [
+      "donruss throwback",
+      "threads"
+    ],
+    [
+      "donruss unleashed",
+      "rapture"
+    ],
+    [
+      "donruss unleashed",
+      "silver"
+    ],
+    [
+      "donruss vxp",
+      "1.0"
+    ],
+    [
+      "fleer",
+      "'89"
+    ],
+    [
+      "fleer",
+      "'90"
+    ],
+    [
+      "fleer",
+      "'91"
+    ],
+    [
+      "fleer",
+      "2nd"
+    ],
+    [
+      "fleer",
+      "7eleven citgo"
+    ],
+    [
+      "fleer",
+      "aerial"
+    ],
+    [
+      "fleer",
+      "allfleer"
+    ],
+    [
+      "fleer",
+      "allpro"
+    ],
+    [
+      "fleer",
+      "allstar"
+    ],
+    [
+      "fleer",
+      "allstars"
+    ],
+    [
+      "fleer",
+      "atlantic"
+    ],
+    [
+      "fleer",
+      "authentix"
+    ],
+    [
+      "fleer",
+      "authority"
+    ],
+    [
+      "fleer",
+      "avant"
+    ],
+    [
+      "fleer",
+      "award"
+    ],
+    [
+      "fleer",
+      "baseball's"
+    ],
+    [
+      "fleer",
+      "boston"
+    ],
+    [
+      "fleer",
+      "box"
+    ],
+    [
+      "fleer",
+      "brilliants"
+    ],
+    [
+      "fleer",
+      "checklist"
+    ],
+    [
+      "fleer",
+      "checklists"
+    ],
+    [
+      "fleer",
+      "classic"
+    ],
+    [
+      "fleer",
+      "designated"
+    ],
+    [
+      "fleer",
+      "double"
+    ],
+    [
+      "fleer",
+      "emotion"
+    ],
+    [
+      "fleer",
+      "ex"
+    ],
+    [
+      "fleer",
+      "fall"
+    ],
+    [
+      "fleer",
+      "flair"
+    ],
+    [
+      "fleer",
+      "fleer"
+    ],
+    [
+      "fleer",
+      "focus"
+    ],
+    [
+      "fleer",
+      "for"
+    ],
+    [
+      "fleer",
+      "fruit"
+    ],
+    [
+      "fleer",
+      "future"
+    ],
+    [
+      "fleer",
+      "futures"
+    ],
+    [
+      "fleer",
+      "game"
+    ],
+    [
+      "fleer",
+      "gamers"
+    ],
+    [
+      "fleer",
+      "genuine"
+    ],
+    [
+      "fleer",
+      "glossy"
+    ],
+    [
+      "fleer",
+      "gold"
+    ],
+    [
+      "fleer",
+      "golden"
+    ],
+    [
+      "fleer",
+      "goudey"
+    ],
+    [
+      "fleer",
+      "greats"
+    ],
+    [
+      "fleer",
+      "gridiron"
+    ],
+    [
+      "fleer",
+      "hardball"
+    ],
+    [
+      "fleer",
+      "headliners"
+    ],
+    [
+      "fleer",
+      "homeruns"
+    ],
+    [
+      "fleer",
+      "hot"
+    ],
+    [
+      "fleer",
+      "human"
+    ],
+    [
+      "fleer",
+      "impact"
+    ],
+    [
+      "fleer",
+      "inscribed"
+    ],
+    [
+      "fleer",
+      "ironman"
+    ],
+    [
+      "fleer",
+      "jerome"
+    ],
+    [
+      "fleer",
+      "kaybee"
+    ],
+    [
+      "fleer",
+      "leaders"
+    ],
+    [
+      "fleer",
+      "league"
+    ],
+    [
+      "fleer",
+      "legacy"
+    ],
+    [
+      "fleer",
+      "living legends"
+    ],
+    [
+      "fleer",
+      "lumber"
+    ],
+    [
+      "fleer",
+      "major"
+    ],
+    [
+      "fleer",
+      "maximum"
+    ],
+    [
+      "fleer",
+      "metal"
+    ],
+    [
+      "fleer",
+      "million"
+    ],
+    [
+      "fleer",
+      "miscut"
+    ],
+    [
+      "fleer",
+      "most"
+    ],
+    [
+      "fleer",
+      "mvps"
+    ],
+    [
+      "fleer",
+      "mystique"
+    ],
+    [
+      "fleer",
+      "n.l."
+    ],
+    [
+      "fleer",
+      "nmmt"
+    ],
+    [
+      "fleer",
+      "oc"
+    ],
+    [
+      "fleer",
+      "patchworks"
+    ],
+    [
+      "fleer",
+      "platinum"
+    ],
+    [
+      "fleer",
+      "players"
+    ],
+    [
+      "fleer",
+      "premium"
+    ],
+    [
+      "fleer",
+      "pro"
+    ],
+    [
+      "fleer",
+      "provisions"
+    ],
+    [
+      "fleer",
+      "record"
+    ],
+    [
+      "fleer",
+      "roger"
+    ],
+    [
+      "fleer",
+      "rookies"
+    ],
+    [
+      "fleer",
+      "scoring"
+    ],
+    [
+      "fleer",
+      "second"
+    ],
+    [
+      "fleer",
+      "sensations"
+    ],
+    [
+      "fleer",
+      "shell"
+    ],
+    [
+      "fleer",
+      "showcase"
+    ],
+    [
+      "fleer",
+      "signature"
+    ],
+    [
+      "fleer",
+      "snapshot"
+    ],
+    [
+      "fleer",
+      "soaring"
+    ],
+    [
+      "fleer",
+      "speed"
+    ],
+    [
+      "fleer",
+      "splendid"
+    ],
+    [
+      "fleer",
+      "stickers"
+    ],
+    [
+      "fleer",
+      "sunoco"
+    ],
+    [
+      "fleer",
+      "superstars"
+    ],
+    [
+      "fleer",
+      "sweet"
+    ],
+    [
+      "fleer",
+      "td"
+    ],
+    [
+      "fleer",
+      "the"
+    ],
+    [
+      "fleer",
+      "tiffany"
+    ],
+    [
+      "fleer",
+      "tradition"
+    ],
+    [
+      "fleer",
+      "triple"
+    ],
+    [
+      "fleer",
+      "twizzlers"
+    ],
+    [
+      "fleer",
+      "ultra"
+    ],
+    [
+      "fleer",
+      "update"
+    ],
+    [
+      "fleer",
+      "usa"
+    ],
+    [
+      "fleer",
+      "world"
+    ],
+    [
+      "fleer",
+      "wwe"
+    ],
+    [
+      "fleer",
+      "year"
+    ],
+    [
+      "fleer '89",
+      "fleer allstar"
+    ],
+    [
+      "fleer '90",
+      "fleer allstar"
+    ],
+    [
+      "fleer '91",
+      "allstar"
+    ],
+    [
+      "fleer '91",
+      "fleer"
+    ],
+    [
+      "fleer 3d",
+      "sliding"
+    ],
+    [
+      "fleer 7eleven citgo",
+      "the"
+    ],
+    [
+      "fleer aerial",
+      "attack"
+    ],
+    [
+      "fleer allpro",
+      "'91"
+    ],
+    [
+      "fleer authentix",
+      "balcony"
+    ],
+    [
+      "fleer award",
+      "winners"
+    ],
+    [
+      "fleer baseball's",
+      "best"
+    ],
+    [
+      "fleer baseball's",
+      "exciting"
+    ],
+    [
+      "fleer baseball's",
+      "game"
+    ],
+    [
+      "fleer baseball's",
+      "hottest"
+    ],
+    [
+      "fleer baseball's",
+      "league"
+    ],
+    [
+      "fleer box",
+      "score"
+    ],
+    [
+      "fleer box",
+      "topper"
+    ],
+    [
+      "fleer classic",
+      "clippings"
+    ],
+    [
+      "fleer classic",
+      "miniatures"
+    ],
+    [
+      "fleer double",
+      "header"
+    ],
+    [
+      "fleer ex",
+      "generation"
+    ],
+    [
+      "fleer ex",
+      "hit"
+    ],
+    [
+      "fleer fall",
+      "classic"
+    ],
+    [
+      "fleer flair",
+      "preview"
+    ],
+    [
+      "fleer fleer",
+      "allpro"
+    ],
+    [
+      "fleer fleer",
+      "allpros"
+    ],
+    [
+      "fleer fleer",
+      "allstar"
+    ],
+    [
+      "fleer focus",
+      "focus"
+    ],
+    [
+      "fleer focus",
+      "fresh"
+    ],
+    [
+      "fleer focus",
+      "jersey"
+    ],
+    [
+      "fleer for",
+      "the"
+    ],
+    [
+      "fleer fruit",
+      "of"
+    ],
+    [
+      "fleer futures",
+      "characteristics"
+    ],
+    [
+      "fleer futures",
+      "hot"
+    ],
+    [
+      "fleer game",
+      "breakers"
+    ],
+    [
+      "fleer game",
+      "time"
+    ],
+    [
+      "fleer gamers",
+      "embossed"
+    ],
+    [
+      "fleer gamers",
+      "fame"
+    ],
+    [
+      "fleer gamers",
+      "yard"
+    ],
+    [
+      "fleer genuine",
+      "insider"
+    ],
+    [
+      "fleer genuine",
+      "names"
+    ],
+    [
+      "fleer genuine",
+      "tip"
+    ],
+    [
+      "fleer genuine",
+      "touch"
+    ],
+    [
+      "fleer gold",
+      "backs"
+    ],
+    [
+      "fleer golden",
+      "memories"
+    ],
+    [
+      "fleer golden",
+      "moments"
+    ],
+    [
+      "fleer goudey",
+      "greats"
+    ],
+    [
+      "fleer greats",
+      "of"
+    ],
+    [
+      "fleer gridiron",
+      "leaders"
+    ],
+    [
+      "fleer hot",
+      "prospects"
+    ],
+    [
+      "fleer impact",
+      "mighty"
+    ],
+    [
+      "fleer jerome",
+      "bettis"
+    ],
+    [
+      "fleer league",
+      "leader"
+    ],
+    [
+      "fleer league",
+      "leaders"
+    ],
+    [
+      "fleer league",
+      "standouts"
+    ],
+    [
+      "fleer lumber",
+      "company"
+    ],
+    [
+      "fleer major",
+      "league"
+    ],
+    [
+      "fleer metal",
+      "gold"
+    ],
+    [
+      "fleer metal",
+      "goldflingers"
+    ],
+    [
+      "fleer metal",
+      "platinum"
+    ],
+    [
+      "fleer metal",
+      "silver"
+    ],
+    [
+      "fleer mystique",
+      "shining"
+    ],
+    [
+      "fleer platinum",
+      "big"
+    ],
+    [
+      "fleer platinum",
+      "classic"
+    ],
+    [
+      "fleer platinum",
+      "guts"
+    ],
+    [
+      "fleer premium",
+      "decades"
+    ],
+    [
+      "fleer premium",
+      "promotional"
+    ],
+    [
+      "fleer premium",
+      "solid"
+    ],
+    [
+      "fleer record",
+      "setters"
+    ],
+    [
+      "fleer roger",
+      "clemens"
+    ],
+    [
+      "fleer rookies",
+      "&"
+    ],
+    [
+      "fleer shell",
+      "fact"
+    ],
+    [
+      "fleer showcase",
+      "license"
+    ],
+    [
+      "fleer showcase",
+      "measure"
+    ],
+    [
+      "fleer showcase",
+      "noise"
+    ],
+    [
+      "fleer splendid",
+      "splinters"
+    ],
+    [
+      "fleer sweet",
+      "sigs"
+    ],
+    [
+      "fleer td",
+      "sensations"
+    ],
+    [
+      "fleer the",
+      "indispensables"
+    ],
+    [
+      "fleer tradition",
+      "checklist"
+    ],
+    [
+      "fleer tradition",
+      "checklists"
+    ],
+    [
+      "fleer tradition",
+      "diamond"
+    ],
+    [
+      "fleer tradition",
+      "dividends"
+    ],
+    [
+      "fleer tradition",
+      "franchise"
+    ],
+    [
+      "fleer tradition",
+      "glossy"
+    ],
+    [
+      "fleer tradition",
+      "golden"
+    ],
+    [
+      "fleer tradition",
+      "grasskickers"
+    ],
+    [
+      "fleer tradition",
+      "in"
+    ],
+    [
+      "fleer tradition",
+      "lumber"
+    ],
+    [
+      "fleer tradition",
+      "milestones"
+    ],
+    [
+      "fleer tradition",
+      "red"
+    ],
+    [
+      "fleer tradition",
+      "standouts"
+    ],
+    [
+      "fleer tradition",
+      "tale"
+    ],
+    [
+      "fleer tradition",
+      "the"
+    ],
+    [
+      "fleer tradition",
+      "this"
+    ],
+    [
+      "fleer tradition",
+      "update"
+    ],
+    [
+      "fleer tradition",
+      "vintage"
+    ],
+    [
+      "fleer tradition",
+      "who"
+    ],
+    [
+      "fleer triple",
+      "crown"
+    ],
+    [
+      "fleer ultra",
+      "award"
+    ],
+    [
+      "fleer ultra",
+      "blitzkrieg"
+    ],
+    [
+      "fleer ultra",
+      "sensations"
+    ],
+    [
+      "fleer ultra",
+      "sunday"
+    ],
+    [
+      "fleer ultra",
+      "touchdown"
+    ],
+    [
+      "fleer update",
+      "checklist"
+    ],
+    [
+      "fleer update",
+      "diamond"
+    ],
+    [
+      "fleer update",
+      "headliners"
+    ],
+    [
+      "fleer update",
+      "smooth"
+    ],
+    [
+      "fleer update",
+      "soaring"
+    ],
+    [
+      "upper",
+      "deck"
+    ],
+    [
+      "upper deck",
+      "10th"
+    ],
+    [
+      "upper deck",
+      "20th"
+    ],
+    [
+      "upper deck",
+      "40man"
+    ],
+    [
+      "upper deck",
+      "5th"
+    ],
+    [
+      "upper deck",
+      "a"
+    ],
+    [
+      "upper deck",
+      "allstar"
+    ],
+    [
+      "upper deck",
+      "allstar game"
+    ],
+    [
+      "upper deck",
+      "alltime"
+    ],
+    [
+      "upper deck",
+      "america's"
+    ],
+    [
+      "upper deck",
+      "arch"
+    ],
+    [
+      "upper deck",
+      "arms"
+    ],
+    [
+      "upper deck",
+      "artifacts"
+    ],
+    [
+      "upper deck",
+      "athlete"
+    ],
+    [
+      "upper deck",
+      "ballpark"
+    ],
+    [
+      "upper deck",
+      "bash"
+    ],
+    [
+      "upper deck",
+      "berman's"
+    ],
+    [
+      "upper deck",
+      "big"
+    ],
+    [
+      "upper deck",
+      "big league"
+    ],
+    [
+      "upper deck",
+      "black"
+    ],
+    [
+      "upper deck",
+      "capture"
+    ],
+    [
+      "upper deck",
+      "century"
+    ],
+    [
+      "upper deck",
+      "challengers"
+    ],
+    [
+      "upper deck",
+      "championship"
+    ],
+    [
+      "upper deck",
+      "chasing"
+    ],
+    [
+      "upper deck",
+      "checklist"
+    ],
+    [
+      "upper deck",
+      "classic"
+    ],
+    [
+      "upper deck",
+      "classics"
+    ],
+    [
+      "upper deck",
+      "club"
+    ],
+    [
+      "upper deck",
+      "collectibles"
+    ],
+    [
+      "upper deck",
+      "comic"
+    ],
+    [
+      "upper deck",
+      "complete"
+    ],
+    [
+      "upper deck",
+      "crowning"
+    ],
+    [
+      "upper deck",
+      "cut"
+    ],
+    [
+      "upper deck",
+      "decade"
+    ],
+    [
+      "upper deck",
+      "define"
+    ],
+    [
+      "upper deck",
+      "denny's"
+    ],
+    [
+      "upper deck",
+      "destination"
+    ],
+    [
+      "upper deck",
+      "diamond"
+    ],
+    [
+      "upper deck",
+      "diecut"
+    ],
+    [
+      "upper deck",
+      "domino's"
+    ],
+    [
+      "upper deck",
+      "draft"
+    ],
+    [
+      "upper deck",
+      "ecards"
+    ],
+    [
+      "upper deck",
+      "electric"
+    ],
+    [
+      "upper deck",
+      "elements"
+    ],
+    [
+      "upper deck",
+      "encore"
+    ],
+    [
+      "upper deck",
+      "espn"
+    ],
+    [
+      "upper deck",
+      "etchings"
+    ],
+    [
+      "upper deck",
+      "evolution"
+    ],
+    [
+      "upper deck",
+      "exchange"
+    ],
+    [
+      "upper deck",
+      "experience"
+    ],
+    [
+      "upper deck",
+      "f x"
+    ],
+    [
+      "upper deck",
+      "faces"
+    ],
+    [
+      "upper deck",
+      "fan"
+    ],
+    [
+      "upper deck",
+      "fanimation"
+    ],
+    [
+      "upper deck",
+      "final"
+    ],
+    [
+      "upper deck",
+      "finite"
+    ],
+    [
+      "upper deck",
+      "first"
+    ],
+    [
+      "upper deck",
+      "fivetool"
+    ],
+    [
+      "upper deck",
+      "forte"
+    ],
+    [
+      "upper deck",
+      "franz"
+    ],
+    [
+      "upper deck",
+      "fun"
+    ],
+    [
+      "upper deck",
+      "future"
+    ],
+    [
+      "upper deck",
+      "game"
+    ],
+    [
+      "upper deck",
+      "generations"
+    ],
+    [
+      "upper deck",
+      "gold"
+    ],
+    [
+      "upper deck",
+      "goodwin"
+    ],
+    [
+      "upper deck",
+      "goudey"
+    ],
+    [
+      "upper deck",
+      "hall"
+    ],
+    [
+      "upper deck",
+      "hardcourt"
+    ],
+    [
+      "upper deck",
+      "heroes"
+    ],
+    [
+      "upper deck",
+      "highlight"
+    ],
+    [
+      "upper deck",
+      "hit"
+    ],
+    [
+      "upper deck",
+      "hitter's"
+    ],
+    [
+      "upper deck",
+      "hologrfx"
+    ],
+    [
+      "upper deck",
+      "home"
+    ],
+    [
+      "upper deck",
+      "home run"
+    ],
+    [
+      "upper deck",
+      "homerun"
+    ],
+    [
+      "upper deck",
+      "honor"
+    ],
+    [
+      "upper deck",
+      "hot"
+    ],
+    [
+      "upper deck",
+      "icons"
+    ],
+    [
+      "upper deck",
+      "infield"
+    ],
+    [
+      "upper deck",
+      "jeff"
+    ],
+    [
+      "upper deck",
+      "joe"
+    ],
+    [
+      "upper deck",
+      "kickoff"
+    ],
+    [
+      "upper deck",
+      "legends"
+    ],
+    [
+      "upper deck",
+      "live"
+    ],
+    [
+      "upper deck",
+      "mark"
+    ],
+    [
+      "upper deck",
+      "masterpieces"
+    ],
+    [
+      "upper deck",
+      "masters"
+    ],
+    [
+      "upper deck",
+      "mates"
+    ],
+    [
+      "upper deck",
+      "midsummer"
+    ],
+    [
+      "upper deck",
+      "miller"
+    ],
+    [
+      "upper deck",
+      "minor league"
+    ],
+    [
+      "upper deck",
+      "mint"
+    ],
+    [
+      "upper deck",
+      "mjx"
+    ],
+    [
+      "upper deck",
+      "mvp"
+    ],
+    [
+      "upper deck",
+      "national"
+    ],
+    [
+      "upper deck",
+      "national day"
+    ],
+    [
+      "upper deck",
+      "nestle"
+    ],
+    [
+      "upper deck",
+      "nothing"
+    ],
+    [
+      "upper deck",
+      "on"
+    ],
+    [
+      "upper deck",
+      "ovation"
+    ],
+    [
+      "upper deck",
+      "pennant"
+    ],
+    [
+      "upper deck",
+      "people's"
+    ],
+    [
+      "upper deck",
+      "pepsi"
+    ],
+    [
+      "upper deck",
+      "piece"
+    ],
+    [
+      "upper deck",
+      "pinstripe"
+    ],
+    [
+      "upper deck",
+      "play"
+    ],
+    [
+      "upper deck",
+      "player"
+    ],
+    [
+      "upper deck",
+      "power"
+    ],
+    [
+      "upper deck",
+      "powerdeck"
+    ],
+    [
+      "upper deck",
+      "predictors"
+    ],
+    [
+      "upper deck",
+      "prime"
+    ],
+    [
+      "upper deck",
+      "pro"
+    ],
+    [
+      "upper deck",
+      "promos"
+    ],
+    [
+      "upper deck",
+      "pros"
+    ],
+    [
+      "upper deck",
+      "proview"
+    ],
+    [
+      "upper deck",
+      "quarterback"
+    ],
+    [
+      "upper deck",
+      "rclass"
+    ],
+    [
+      "upper deck",
+      "reflections"
+    ],
+    [
+      "upper deck",
+      "reggie"
+    ],
+    [
+      "upper deck",
+      "retro"
+    ],
+    [
+      "upper deck",
+      "ripken"
+    ],
+    [
+      "upper deck",
+      "rock"
+    ],
+    [
+      "upper deck",
+      "roundup"
+    ],
+    [
+      "upper deck",
+      "run"
+    ],
+    [
+      "upper deck",
+      "rusty"
+    ],
+    [
+      "upper deck",
+      "scrapbook"
+    ],
+    [
+      "upper deck",
+      "season"
+    ],
+    [
+      "upper deck",
+      "seattle"
+    ],
+    [
+      "upper deck",
+      "signature"
+    ],
+    [
+      "upper deck",
+      "silver"
+    ],
+    [
+      "upper deck",
+      "spectrum"
+    ],
+    [
+      "upper deck",
+      "standing"
+    ],
+    [
+      "upper deck",
+      "starquest"
+    ],
+    [
+      "upper deck",
+      "statitude"
+    ],
+    [
+      "upper deck",
+      "strike"
+    ],
+    [
+      "upper deck",
+      "super"
+    ],
+    [
+      "upper deck",
+      "superior"
+    ],
+    [
+      "upper deck",
+      "superstar"
+    ],
+    [
+      "upper deck",
+      "sweet"
+    ],
+    [
+      "upper deck",
+      "synchronicity"
+    ],
+    [
+      "upper deck",
+      "teammates"
+    ],
+    [
+      "upper deck",
+      "ted"
+    ],
+    [
+      "upper deck",
+      "textbook"
+    ],
+    [
+      "upper deck",
+      "the"
+    ],
+    [
+      "upper deck",
+      "the future"
+    ],
+    [
+      "upper deck",
+      "then"
+    ],
+    [
+      "upper deck",
+      "timeline"
+    ],
+    [
+      "upper deck",
+      "trilogy"
+    ],
+    [
+      "upper deck",
+      "trio"
+    ],
+    [
+      "upper deck",
+      "triple"
+    ],
+    [
+      "upper deck",
+      "triple play"
+    ],
+    [
+      "upper deck",
+      "twentyfive"
+    ],
+    [
+      "upper deck",
+      "ud"
+    ],
+    [
+      "upper deck",
+      "ud3"
+    ],
+    [
+      "upper deck",
+      "ultimate"
+    ],
+    [
+      "upper deck",
+      "update"
+    ],
+    [
+      "upper deck",
+      "upper"
+    ],
+    [
+      "upper deck",
+      "upper deck"
+    ],
+    [
+      "upper deck",
+      "usa"
+    ],
+    [
+      "upper deck",
+      "v.j."
+    ],
+    [
+      "upper deck",
+      "victory"
+    ],
+    [
+      "upper deck",
+      "view"
+    ],
+    [
+      "upper deck",
+      "vintage"
+    ],
+    [
+      "upper deck",
+      "wonder"
+    ],
+    [
+      "upper deck",
+      "world"
+    ],
+    [
+      "upper deck",
+      "x"
+    ],
+    [
+      "upper deck",
+      "xl"
+    ],
+    [
+      "upper deck",
+      "yankee"
+    ],
+    [
+      "upper deck",
+      "yankees"
+    ],
+    [
+      "skybox",
+      "autographics"
+    ],
+    [
+      "skybox",
+      "dominion"
+    ],
+    [
+      "skybox",
+      "dugout"
+    ],
+    [
+      "skybox",
+      "emotion"
+    ],
+    [
+      "skybox",
+      "eticket"
+    ],
+    [
+      "skybox",
+      "ex"
+    ],
+    [
+      "skybox",
+      "ex2000"
+    ],
+    [
+      "skybox",
+      "ex2001"
+    ],
+    [
+      "skybox",
+      "green"
+    ],
+    [
+      "skybox",
+      "impact"
+    ],
+    [
+      "skybox",
+      "le"
+    ],
+    [
+      "skybox",
+      "metal universe"
+    ],
+    [
+      "skybox",
+      "molten"
+    ],
+    [
+      "skybox",
+      "premium"
+    ],
+    [
+      "skybox",
+      "prime"
+    ],
+    [
+      "skybox",
+      "skylines"
+    ],
+    [
+      "skybox",
+      "skymotion"
+    ],
+    [
+      "skybox",
+      "sunday's"
+    ],
+    [
+      "skybox",
+      "technique"
+    ],
+    [
+      "skybox",
+      "texaco"
+    ],
+    [
+      "skybox",
+      "thunder"
+    ],
+    [
+      "skybox",
+      "usa"
+    ],
+    [
+      "skybox dominion",
+      "double"
+    ],
+    [
+      "skybox dominion",
+      "hard"
+    ],
+    [
+      "skybox dominion",
+      "turfs"
+    ],
+    [
+      "skybox dugout",
+      "axcess"
+    ],
+    [
+      "skybox emotion",
+      "rookies"
+    ],
+    [
+      "skybox ex",
+      "century"
+    ],
+    [
+      "skybox ex2000",
+      "date"
+    ],
+    [
+      "skybox ex2001",
+      "x2001"
+    ],
+    [
+      "skybox impact",
+      "color"
+    ],
+    [
+      "skybox impact",
+      "countdown"
+    ],
+    [
+      "skybox impact",
+      "future"
+    ],
+    [
+      "skybox impact",
+      "impact"
+    ],
+    [
+      "skybox impact",
+      "intimidators"
+    ],
+    [
+      "skybox impact",
+      "kelly's"
+    ],
+    [
+      "skybox impact",
+      "rookies"
+    ],
+    [
+      "skybox impact",
+      "super"
+    ],
+    [
+      "skybox impact",
+      "superbowl"
+    ],
+    [
+      "skybox impact",
+      "ultimate"
+    ],
+    [
+      "skybox molten",
+      "metal"
+    ],
+    [
+      "skybox premium",
+      "closeups"
+    ],
+    [
+      "skybox premium",
+      "costacos"
+    ],
+    [
+      "skybox premium",
+      "double"
+    ],
+    [
+      "skybox premium",
+      "mirror"
+    ],
+    [
+      "skybox premium",
+      "paydirt"
+    ],
+    [
+      "skybox premium",
+      "quickstrike"
+    ],
+    [
+      "skybox premium",
+      "rap"
+    ],
+    [
+      "skybox premium",
+      "revolution"
+    ],
+    [
+      "skybox premium",
+      "skytech"
+    ],
+    [
+      "skybox premium",
+      "spring"
+    ],
+    [
+      "skybox premium",
+      "thunder"
+    ],
+    [
+      "skybox prime",
+      "time"
+    ],
+    [
+      "skybox texaco",
+      "usa"
+    ],
+    [
+      "skybox thunder",
+      "in"
+    ],
+    [
+      "skybox usa",
+      "gold"
+    ],
+    [
+      "pacific",
+      "&"
+    ],
+    [
+      "pacific",
+      "7eleven"
+    ],
+    [
+      "pacific",
+      "action"
+    ],
+    [
+      "pacific",
+      "advil"
+    ],
+    [
+      "pacific",
+      "aurora"
+    ],
+    [
+      "pacific",
+      "crown"
+    ],
+    [
+      "pacific",
+      "dynagon"
+    ],
+    [
+      "pacific",
+      "gems"
+    ],
+    [
+      "pacific",
+      "invincible"
+    ],
+    [
+      "pacific",
+      "legends"
+    ],
+    [
+      "pacific",
+      "marquee"
+    ],
+    [
+      "pacific",
+      "nolan"
+    ],
+    [
+      "pacific",
+      "omega"
+    ],
+    [
+      "pacific",
+      "online"
+    ],
+    [
+      "pacific",
+      "ornaments"
+    ],
+    [
+      "pacific",
+      "pacific"
+    ],
+    [
+      "pacific",
+      "paramount"
+    ],
+    [
+      "pacific",
+      "philadelphia"
+    ],
+    [
+      "pacific",
+      "platinum"
+    ],
+    [
+      "pacific",
+      "prism"
+    ],
+    [
+      "pacific",
+      "prisms"
+    ],
+    [
+      "pacific",
+      "private"
+    ],
+    [
+      "pacific",
+      "revolution"
+    ],
+    [
+      "pacific",
+      "silver"
+    ],
+    [
+      "pacific",
+      "spanish"
+    ],
+    [
+      "pacific",
+      "statistical"
+    ],
+    [
+      "pacific",
+      "texas"
+    ],
+    [
+      "pacific",
+      "triple"
+    ],
+    [
+      "pacific",
+      "vanguard"
+    ],
+    [
+      "pacific &",
+      "comics"
+    ],
+    [
+      "pacific advil",
+      "nolan"
+    ],
+    [
+      "pacific aurora",
+      "championship"
+    ],
+    [
+      "pacific aurora",
+      "date"
+    ],
+    [
+      "pacific aurora",
+      "pennant"
+    ],
+    [
+      "pacific aurora",
+      "pinstripes"
+    ],
+    [
+      "pacific crown",
+      "collection"
+    ],
+    [
+      "pacific crown",
+      "royale"
+    ],
+    [
+      "pacific dynagon",
+      "prism"
+    ],
+    [
+      "pacific gems",
+      "of"
+    ],
+    [
+      "pacific invincible",
+      "diamond"
+    ],
+    [
+      "pacific invincible",
+      "fast"
+    ],
+    [
+      "pacific invincible",
+      "gems"
+    ],
+    [
+      "pacific invincible",
+      "sandlot"
+    ],
+    [
+      "pacific invincible",
+      "school"
+    ],
+    [
+      "pacific invincible",
+      "seismic"
+    ],
+    [
+      "pacific invincible",
+      "widescreen"
+    ],
+    [
+      "pacific legends",
+      "i"
+    ],
+    [
+      "pacific legends",
+      "ii"
+    ],
+    [
+      "pacific marquee",
+      "prisms"
+    ],
+    [
+      "pacific nolan",
+      "ryan"
+    ],
+    [
+      "pacific omega",
+      "al"
+    ],
+    [
+      "pacific omega",
+      "diamond"
+    ],
+    [
+      "pacific omega",
+      "full"
+    ],
+    [
+      "pacific omega",
+      "nl"
+    ],
+    [
+      "pacific omega",
+      "online"
+    ],
+    [
+      "pacific omega",
+      "prisms"
+    ],
+    [
+      "pacific online",
+      "red"
+    ],
+    [
+      "pacific pacific",
+      "picks"
+    ],
+    [
+      "pacific paramount",
+      "checklists"
+    ],
+    [
+      "pacific paramount",
+      "copper"
+    ],
+    [
+      "pacific paramount",
+      "delivery"
+    ],
+    [
+      "pacific paramount",
+      "green"
+    ],
+    [
+      "pacific paramount",
+      "red"
+    ],
+    [
+      "pacific paramount",
+      "silver"
+    ],
+    [
+      "pacific philadelphia",
+      "gold"
+    ],
+    [
+      "pacific prism",
+      "atomic"
+    ],
+    [
+      "pacific prism",
+      "drops"
+    ],
+    [
+      "pacific prism",
+      "invincible"
+    ],
+    [
+      "pacific prism",
+      "nl"
+    ],
+    [
+      "pacific prism",
+      "rapture"
+    ],
+    [
+      "pacific prism",
+      "silver"
+    ],
+    [
+      "pacific prisms",
+      "connections"
+    ],
+    [
+      "pacific private",
+      "stock"
+    ],
+    [
+      "pacific revolution",
+      "making"
+    ],
+    [
+      "pacific silver",
+      "prisms"
+    ],
+    [
+      "pacific statistical",
+      "leaders"
+    ],
+    [
+      "pacific texas",
+      "express"
+    ],
+    [
+      "pacific vanguard",
+      "diamond"
+    ],
+    [
+      "pacific vanguard",
+      "high"
+    ],
+    [
+      "pacific vanguard",
+      "press"
+    ],
+    [
+      "score",
+      "&"
+    ],
+    [
+      "score",
+      "100"
+    ],
+    [
+      "score",
+      "2nd"
+    ],
+    [
+      "score",
+      "35th"
+    ],
+    [
+      "score",
+      "90's"
+    ],
+    [
+      "score",
+      "allscore"
+    ],
+    [
+      "score",
+      "allstar"
+    ],
+    [
+      "score",
+      "alltime"
+    ],
+    [
+      "score",
+      "baseball's"
+    ],
+    [
+      "score",
+      "board"
+    ],
+    [
+      "score",
+      "captains"
+    ],
+    [
+      "score",
+      "celebration"
+    ],
+    [
+      "score",
+      "checklist"
+    ],
+    [
+      "score",
+      "collection"
+    ],
+    [
+      "score",
+      "color"
+    ],
+    [
+      "score",
+      "complete"
+    ],
+    [
+      "score",
+      "cooperstown"
+    ],
+    [
+      "score",
+      "deep"
+    ],
+    [
+      "score",
+      "diamond"
+    ],
+    [
+      "score",
+      "dots"
+    ],
+    [
+      "score",
+      "dream"
+    ],
+    [
+      "score",
+      "drive"
+    ],
+    [
+      "score",
+      "dugout"
+    ],
+    [
+      "score",
+      "fantasy"
+    ],
+    [
+      "score",
+      "field"
+    ],
+    [
+      "score",
+      "first"
+    ],
+    [
+      "score",
+      "game"
+    ],
+    [
+      "score",
+      "goin'"
+    ],
+    [
+      "score",
+      "gold"
+    ],
+    [
+      "score",
+      "ground"
+    ],
+    [
+      "score",
+      "hall"
+    ],
+    [
+      "score",
+      "highlight"
+    ],
+    [
+      "score",
+      "hobby"
+    ],
+    [
+      "score",
+      "hot"
+    ],
+    [
+      "score",
+      "huddle"
+    ],
+    [
+      "score",
+      "in"
+    ],
+    [
+      "score",
+      "kman"
+    ],
+    [
+      "score",
+      "little"
+    ],
+    [
+      "score",
+      "man"
+    ],
+    [
+      "score",
+      "master"
+    ],
+    [
+      "score",
+      "mvp"
+    ],
+    [
+      "score",
+      "next"
+    ],
+    [
+      "score",
+      "numbers"
+    ],
+    [
+      "score",
+      "off"
+    ],
+    [
+      "score",
+      "offense"
+    ],
+    [
+      "score",
+      "pinnacle"
+    ],
+    [
+      "score",
+      "premium"
+    ],
+    [
+      "score",
+      "pro"
+    ],
+    [
+      "score",
+      "procter"
+    ],
+    [
+      "score",
+      "promo"
+    ],
+    [
+      "score",
+      "protential"
+    ],
+    [
+      "score",
+      "rare"
+    ],
+    [
+      "score",
+      "record"
+    ],
+    [
+      "score",
+      "red"
+    ],
+    [
+      "score",
+      "reflextions"
+    ],
+    [
+      "score",
+      "rifleman"
+    ],
+    [
+      "score",
+      "rock"
+    ],
+    [
+      "score",
+      "royals"
+    ],
+    [
+      "score",
+      "score"
+    ],
+    [
+      "score",
+      "scorecard"
+    ],
+    [
+      "score",
+      "scoremasters"
+    ],
+    [
+      "score",
+      "scoring"
+    ],
+    [
+      "score",
+      "select"
+    ],
+    [
+      "score",
+      "showcase"
+    ],
+    [
+      "score",
+      "sidelines"
+    ],
+    [
+      "score",
+      "signal"
+    ],
+    [
+      "score",
+      "signalcallers"
+    ],
+    [
+      "score",
+      "speedburner"
+    ],
+    [
+      "score",
+      "standout"
+    ],
+    [
+      "score",
+      "stellar"
+    ],
+    [
+      "score",
+      "summit"
+    ],
+    [
+      "score",
+      "super"
+    ],
+    [
+      "score",
+      "supplemental"
+    ],
+    [
+      "score",
+      "the"
+    ],
+    [
+      "score",
+      "tombstone pizza"
+    ],
+    [
+      "score",
+      "young"
+    ],
+    [
+      "score &",
+      "traded"
+    ],
+    [
+      "score 100",
+      "superstars"
+    ],
+    [
+      "score 1992",
+      "throwback"
+    ],
+    [
+      "score 2003",
+      "throwback"
+    ],
+    [
+      "score 90's",
+      "impact"
+    ],
+    [
+      "score baseball's",
+      "100"
+    ],
+    [
+      "score board",
+      "7eleven"
+    ],
+    [
+      "score board",
+      "autographed"
+    ],
+    [
+      "score board",
+      "experience"
+    ],
+    [
+      "score board",
+      "lasers"
+    ],
+    [
+      "score board",
+      "playbook"
+    ],
+    [
+      "score board",
+      "players"
+    ],
+    [
+      "score board",
+      "rookies"
+    ],
+    [
+      "score board",
+      "talk"
+    ],
+    [
+      "score board",
+      "visions"
+    ],
+    [
+      "score captains",
+      "gold"
+    ],
+    [
+      "score celebration",
+      "red"
+    ],
+    [
+      "score dream",
+      "promo"
+    ],
+    [
+      "score dugout",
+      "collection"
+    ],
+    [
+      "score first",
+      "ballot"
+    ],
+    [
+      "score game",
+      "face"
+    ],
+    [
+      "score goin'",
+      "yard"
+    ],
+    [
+      "score gold",
+      "rush"
+    ],
+    [
+      "score gold",
+      "zone"
+    ],
+    [
+      "score hall",
+      "of"
+    ],
+    [
+      "score hobby",
+      "reserve"
+    ],
+    [
+      "score hot",
+      "gun"
+    ],
+    [
+      "score master",
+      "blaster"
+    ],
+    [
+      "score next",
+      "level"
+    ],
+    [
+      "score numbers",
+      "game"
+    ],
+    [
+      "score offense",
+      "inc"
+    ],
+    [
+      "score pinnacle",
+      "men"
+    ],
+    [
+      "score premium",
+      "stock"
+    ],
+    [
+      "score procter",
+      "&"
+    ],
+    [
+      "score red",
+      "siege"
+    ],
+    [
+      "score score",
+      "rules"
+    ],
+    [
+      "score signal",
+      "callers"
+    ],
+    [
+      "score standout",
+      "numbers"
+    ],
+    [
+      "score the",
+      "franchise"
+    ],
+    [
+      "pinnacle",
+      ".300"
+    ],
+    [
+      "pinnacle",
+      "aficionado"
+    ],
+    [
+      "pinnacle",
+      "awaiting"
+    ],
+    [
+      "pinnacle",
+      "away"
+    ],
+    [
+      "pinnacle",
+      "canton"
+    ],
+    [
+      "pinnacle",
+      "certified"
+    ],
+    [
+      "pinnacle",
+      "checklist"
+    ],
+    [
+      "pinnacle",
+      "clear"
+    ],
+    [
+      "pinnacle",
+      "club"
+    ],
+    [
+      "pinnacle",
+      "cooperstown"
+    ],
+    [
+      "pinnacle",
+      "defining"
+    ],
+    [
+      "pinnacle",
+      "denny's"
+    ],
+    [
+      "pinnacle",
+      "double"
+    ],
+    [
+      "pinnacle",
+      "epix"
+    ],
+    [
+      "pinnacle",
+      "essence"
+    ],
+    [
+      "pinnacle",
+      "fanfest"
+    ],
+    [
+      "pinnacle",
+      "field"
+    ],
+    [
+      "pinnacle",
+      "foil"
+    ],
+    [
+      "pinnacle",
+      "goin'"
+    ],
+    [
+      "pinnacle",
+      "hardball"
+    ],
+    [
+      "pinnacle",
+      "home"
+    ],
+    [
+      "pinnacle",
+      "inscriptions"
+    ],
+    [
+      "pinnacle",
+      "inside"
+    ],
+    [
+      "pinnacle",
+      "instincts"
+    ],
+    [
+      "pinnacle",
+      "laser"
+    ],
+    [
+      "pinnacle",
+      "mint"
+    ],
+    [
+      "pinnacle",
+      "museum"
+    ],
+    [
+      "pinnacle",
+      "naturals"
+    ],
+    [
+      "pinnacle",
+      "passer"
+    ],
+    [
+      "pinnacle",
+      "performers"
+    ],
+    [
+      "pinnacle",
+      "pinnacle"
+    ],
+    [
+      "pinnacle",
+      "plus"
+    ],
+    [
+      "pinnacle",
+      "position"
+    ],
+    [
+      "pinnacle",
+      "premium"
+    ],
+    [
+      "pinnacle",
+      "promos"
+    ],
+    [
+      "pinnacle",
+      "red"
+    ],
+    [
+      "pinnacle",
+      "replay"
+    ],
+    [
+      "pinnacle",
+      "samples"
+    ],
+    [
+      "pinnacle",
+      "showcase"
+    ],
+    [
+      "pinnacle",
+      "spirit"
+    ],
+    [
+      "pinnacle",
+      "starburst"
+    ],
+    [
+      "pinnacle",
+      "swing"
+    ],
+    [
+      "pinnacle",
+      "the"
+    ],
+    [
+      "pinnacle",
+      "totally"
+    ],
+    [
+      "pinnacle",
+      "trophy"
+    ],
+    [
+      "pinnacle",
+      "ultrapro"
+    ],
+    [
+      "pinnacle",
+      "x's"
+    ],
+    [
+      "pinnacle",
+      "xpress"
+    ],
+    [
+      "pinnacle",
+      "zenith"
+    ],
+    [
+      "pinnacle aficionado",
+      "slick"
+    ],
+    [
+      "pinnacle away",
+      "stats"
+    ],
+    [
+      "pinnacle certified",
+      "certified"
+    ],
+    [
+      "pinnacle certified",
+      "w coating"
+    ],
+    [
+      "pinnacle club",
+      "collection"
+    ],
+    [
+      "pinnacle denny's",
+      "holograms"
+    ],
+    [
+      "pinnacle double",
+      "disguise"
+    ],
+    [
+      "pinnacle field",
+      "of"
+    ],
+    [
+      "pinnacle goin'",
+      "jake"
+    ],
+    [
+      "pinnacle home",
+      "run"
+    ],
+    [
+      "pinnacle home",
+      "stats"
+    ],
+    [
+      "pinnacle inside",
+      "stand"
+    ],
+    [
+      "pinnacle laser",
+      "view"
+    ],
+    [
+      "pinnacle mint",
+      "bronze"
+    ],
+    [
+      "pinnacle mint",
+      "coins"
+    ],
+    [
+      "pinnacle mint",
+      "collection"
+    ],
+    [
+      "pinnacle mint",
+      "commemorative"
+    ],
+    [
+      "pinnacle mint",
+      "gems"
+    ],
+    [
+      "pinnacle mint",
+      "impeccable"
+    ],
+    [
+      "pinnacle mint",
+      "lasting"
+    ],
+    [
+      "pinnacle mint",
+      "minted"
+    ],
+    [
+      "pinnacle mint",
+      "silver"
+    ],
+    [
+      "pinnacle performers",
+      "swing"
+    ],
+    [
+      "pinnacle pinnacle",
+      "dufex"
+    ],
+    [
+      "pinnacle pinnacle",
+      "performers"
+    ],
+    [
+      "pinnacle premium",
+      "stock"
+    ],
+    [
+      "pinnacle swing",
+      "men"
+    ],
+    [
+      "pinnacle the",
+      "idols"
+    ],
+    [
+      "pinnacle the",
+      "naturals"
+    ],
+    [
+      "pinnacle totally",
+      "certified"
+    ],
+    [
+      "pinnacle ultrapro",
+      "rembrandt"
+    ],
+    [
+      "press",
+      "pass"
+    ],
+    [
+      "press pass",
+      "breakout"
+    ],
+    [
+      "press pass",
+      "double"
+    ],
+    [
+      "press pass",
+      "gold"
+    ],
+    [
+      "press pass",
+      "paydirt"
+    ],
+    [
+      "press pass",
+      "trackside"
+    ],
+    [
+      "press pass",
+      "vip"
+    ],
+    [
+      "press pass",
+      "x's"
+    ],
+    [
+      "classic",
+      "assets"
+    ],
+    [
+      "classic",
+      "best"
+    ],
+    [
+      "classic",
+      "blue"
+    ],
+    [
+      "classic",
+      "clear"
+    ],
+    [
+      "classic",
+      "draft"
+    ],
+    [
+      "classic",
+      "experience"
+    ],
+    [
+      "classic",
+      "five"
+    ],
+    [
+      "classic",
+      "four"
+    ],
+    [
+      "classic",
+      "game"
+    ],
+    [
+      "classic",
+      "i"
+    ],
+    [
+      "classic",
+      "ii"
+    ],
+    [
+      "classic",
+      "images"
+    ],
+    [
+      "classic",
+      "mcdonald's"
+    ],
+    [
+      "classic",
+      "nolan"
+    ],
+    [
+      "classic",
+      "pro line"
+    ],
+    [
+      "classic",
+      "rookies"
+    ],
+    [
+      "classic",
+      "ted williams"
+    ],
+    [
+      "classic",
+      "tricards"
+    ],
+    [
+      "classic",
+      "update"
+    ],
+    [
+      "classic",
+      "visions"
+    ],
+    [
+      "classic",
+      "world"
+    ],
+    [
+      "classic",
+      "yellow"
+    ],
+    [
+      "classic assets",
+      "gold"
+    ],
+    [
+      "classic assets",
+      "hot"
+    ],
+    [
+      "classic assets",
+      "phone"
+    ],
+    [
+      "classic best",
+      "gold"
+    ],
+    [
+      "classic clear",
+      "assets"
+    ],
+    [
+      "classic draft",
+      "gold"
+    ],
+    [
+      "classic draft",
+      "picks"
+    ],
+    [
+      "classic draft",
+      "printer's"
+    ],
+    [
+      "classic experience",
+      "gold"
+    ],
+    [
+      "classic experience",
+      "sneak"
+    ],
+    [
+      "classic experience",
+      "super"
+    ],
+    [
+      "classic five",
+      "sport"
+    ],
+    [
+      "classic four",
+      "sport"
+    ],
+    [
+      "classic images",
+      "foil"
+    ],
+    [
+      "classic images",
+      "four"
+    ],
+    [
+      "classic images",
+      "live"
+    ],
+    [
+      "classic nolan",
+      "ryan"
+    ],
+    [
+      "classic rookies",
+      "silver"
+    ],
+    [
+      "classic update",
+      "yellow green"
+    ],
+    [
+      "classic visions",
+      "signings"
+    ],
+    [
+      "classics",
+      "tributes"
+    ],
+    [
+      "leaf",
+      "50th"
+    ],
+    [
+      "leaf",
+      "allstar game"
+    ],
+    [
+      "leaf",
+      "bat"
+    ],
+    [
+      "leaf",
+      "black"
+    ],
+    [
+      "leaf",
+      "century"
+    ],
+    [
+      "leaf",
+      "certified"
+    ],
+    [
+      "leaf",
+      "checklist"
+    ],
+    [
+      "leaf",
+      "draft"
+    ],
+    [
+      "leaf",
+      "frank"
+    ],
+    [
+      "leaf",
+      "gamers"
+    ],
+    [
+      "leaf",
+      "getagrip"
+    ],
+    [
+      "leaf",
+      "gold"
+    ],
+    [
+      "leaf",
+      "great"
+    ],
+    [
+      "leaf",
+      "heading"
+    ],
+    [
+      "leaf",
+      "heroes"
+    ],
+    [
+      "leaf",
+      "home road"
+    ],
+    [
+      "leaf",
+      "knothole"
+    ],
+    [
+      "leaf",
+      "legacy"
+    ],
+    [
+      "leaf",
+      "metal"
+    ],
+    [
+      "leaf",
+      "mvp"
+    ],
+    [
+      "leaf",
+      "opening"
+    ],
+    [
+      "leaf",
+      "passing"
+    ],
+    [
+      "leaf",
+      "pennant"
+    ],
+    [
+      "leaf",
+      "preferred"
+    ],
+    [
+      "leaf",
+      "press"
+    ],
+    [
+      "leaf",
+      "red"
+    ],
+    [
+      "leaf",
+      "rookies"
+    ],
+    [
+      "leaf",
+      "second"
+    ],
+    [
+      "leaf",
+      "signature"
+    ],
+    [
+      "leaf",
+      "slideshow"
+    ],
+    [
+      "leaf 50th",
+      "anniversary"
+    ],
+    [
+      "leaf black",
+      "gold"
+    ],
+    [
+      "leaf certified",
+      "cuts"
+    ],
+    [
+      "leaf certified",
+      "materials"
+    ],
+    [
+      "leaf draft",
+      "red"
+    ],
+    [
+      "leaf gold",
+      "leaf rookies"
+    ],
+    [
+      "leaf gold",
+      "rookies"
+    ],
+    [
+      "leaf heading",
+      "for"
+    ],
+    [
+      "leaf mvp",
+      "winners"
+    ],
+    [
+      "leaf opening",
+      "day"
+    ],
+    [
+      "leaf preferred",
+      "gold"
+    ],
+    [
+      "leaf preferred",
+      "steel"
+    ],
+    [
+      "leaf press",
+      "proofs"
+    ],
+    [
+      "leaf rookies",
+      "&"
+    ],
+    [
+      "leaf slideshow",
+      "with"
+    ],
+    [
+      "action",
+      "packed"
+    ],
+    [
+      "action packed",
+      "allmadden"
+    ],
+    [
+      "action packed",
+      "catching"
+    ],
+    [
+      "action packed",
+      "crash"
+    ],
+    [
+      "action packed",
+      "credentials"
+    ],
+    [
+      "action packed",
+      "diecut"
+    ],
+    [
+      "action packed",
+      "fantasy"
+    ],
+    [
+      "action packed",
+      "minors"
+    ],
+    [
+      "action packed",
+      "monday"
+    ],
+    [
+      "action packed",
+      "prototype"
+    ],
+    [
+      "action packed",
+      "prototypes"
+    ],
+    [
+      "action packed",
+      "quarterback"
+    ],
+    [
+      "action packed",
+      "rookie update"
+    ],
+    [
+      "action packed",
+      "rookies"
+    ],
+    [
+      "action packed",
+      "warp"
+    ],
+    [
+      "7eleven",
+      "sprint"
+    ],
+    [
+      "a.l.",
+      "championships"
+    ],
+    [
+      "a.l.",
+      "playoffs"
+    ],
+    [
+      "aamer",
+      "sport"
+    ],
+    [
+      "aamer sport",
+      "(unlicensed)"
+    ],
+    [
+      "afc",
+      "championship"
+    ],
+    [
+      "al",
+      "batting"
+    ],
+    [
+      "al",
+      "hr"
+    ],
+    [
+      "al",
+      "rbi"
+    ],
+    [
+      "al",
+      "strikeouts"
+    ],
+    [
+      "allan",
+      "kaye's"
+    ],
+    [
+      "allan kaye's",
+      "sports"
+    ],
+    [
+      "allsports",
+      "superstars"
+    ],
+    [
+      "allstar",
+      "game"
+    ],
+    [
+      "allstar",
+      "stats"
+    ],
+    [
+      "american",
+      "bo"
+    ],
+    [
+      "american",
+      "bowl"
+    ],
+    [
+      "american",
+      "flag"
+    ],
+    [
+      "american",
+      "sports"
+    ],
+    [
+      "american bowl",
+      "*"
+    ],
+    [
+      "american flag",
+      "(unlicensed)"
+    ],
+    [
+      "american flag",
+      "super"
+    ],
+    [
+      "american sports",
+      "monthly"
+    ],
+    [
+      "arena",
+      "holograms"
+    ],
+    [
+      "arena",
+      "kid"
+    ],
+    [
+      "arena holograms",
+      " 250000"
+    ],
+    [
+      "arena kid",
+      "griff"
+    ],
+    [
+      "arlington",
+      "post"
+    ],
+    [
+      "arlington post",
+      "(unlicensed)"
+    ],
+    [
+      "ballstreet",
+      "news"
+    ],
+    [
+      "bart",
+      "knows"
+    ],
+    [
+      "bazooka",
+      "comics"
+    ],
+    [
+      "bazooka",
+      "minis"
+    ],
+    [
+      "bazooka",
+      "red"
+    ],
+    [
+      "bazooka comics",
+      "mint"
+    ],
+    [
+      "bazooka red",
+      "hot"
+    ],
+    [
+      "best",
+      "player"
+    ],
+    [
+      "big",
+      "league"
+    ],
+    [
+      "bleachers",
+      "23kt"
+    ],
+    [
+      "bleachers",
+      "upper deck"
+    ],
+    [
+      "bo",
+      "'90"
+    ],
+    [
+      "bo",
+      "knows"
+    ],
+    [
+      "bo '90",
+      "black"
+    ],
+    [
+      "bo '90",
+      "blue"
+    ],
+    [
+      "bo knows",
+      "(purple"
+    ],
+    [
+      "bo knows",
+      "(unlicensed)"
+    ],
+    [
+      "broder",
+      "bash"
+    ],
+    [
+      "cactus",
+      "league"
+    ],
+    [
+      "cactus league",
+      "allstars"
+    ],
+    [
+      "california",
+      "dreamin'"
+    ],
+    [
+      "career",
+      "highlights"
+    ],
+    [
+      "checklist",
+      "111220"
+    ],
+    [
+      "checklist",
+      "221330"
+    ],
+    [
+      "chicago",
+      "white"
+    ],
+    [
+      "choice",
+      "crash"
+    ],
+    [
+      "choice",
+      "silver"
+    ],
+    [
+      "choice",
+      "you"
+    ],
+    [
+      "chronicles",
+      "draft"
+    ],
+    [
+      "chronicles draft",
+      "picks"
+    ],
+    [
+      "circa",
+      "access"
+    ],
+    [
+      "circa",
+      "boss"
+    ],
+    [
+      "circa",
+      "fast"
+    ],
+    [
+      "circa",
+      "icon"
+    ],
+    [
+      "circa",
+      "thunder"
+    ],
+    [
+      "circa icon",
+      "rare"
+    ],
+    [
+      "circa thunder",
+      "boss"
+    ],
+    [
+      "clear",
+      "vision"
+    ],
+    [
+      "clearly",
+      "donruss"
+    ],
+    [
+      "cleo",
+      "michael"
+    ],
+    [
+      "cmc",
+      "jose"
+    ],
+    [
+      "cmc jose",
+      "canseco"
+    ],
+    [
+      "coach",
+      "claus"
+    ],
+    [
+      "coach claus",
+      "&"
+    ],
+    [
+      "cocacola",
+      "monsters"
+    ],
+    [
+      "collector's",
+      "choice"
+    ],
+    [
+      "collector's",
+      "edge"
+    ],
+    [
+      "collector's choice",
+      "a"
+    ],
+    [
+      "collector's choice",
+      "allstar"
+    ],
+    [
+      "collector's choice",
+      "atlanta"
+    ],
+    [
+      "collector's choice",
+      "attractions"
+    ],
+    [
+      "collector's choice",
+      "blue"
+    ],
+    [
+      "collector's choice",
+      "err"
+    ],
+    [
+      "collector's choice",
+      "evolution"
+    ],
+    [
+      "collector's choice",
+      "gold"
+    ],
+    [
+      "collector's choice",
+      "joe"
+    ],
+    [
+      "collector's choice",
+      "ken"
+    ],
+    [
+      "collector's choice",
+      "masked"
+    ],
+    [
+      "collector's choice",
+      "memorable"
+    ],
+    [
+      "collector's choice",
+      "ministandee"
+    ],
+    [
+      "collector's choice",
+      "montana"
+    ],
+    [
+      "collector's choice",
+      "mvps"
+    ],
+    [
+      "collector's choice",
+      "new york"
+    ],
+    [
+      "collector's choice",
+      "play"
+    ],
+    [
+      "collector's choice",
+      "power"
+    ],
+    [
+      "collector's choice",
+      "ripken"
+    ],
+    [
+      "collector's choice",
+      "se"
+    ],
+    [
+      "collector's choice",
+      "seattle"
+    ],
+    [
+      "collector's choice",
+      "silver"
+    ],
+    [
+      "collector's choice",
+      "sp"
+    ],
+    [
+      "collector's choice",
+      "starquest"
+    ],
+    [
+      "collector's choice",
+      "stick'ums"
+    ],
+    [
+      "collector's choice",
+      "stickums"
+    ],
+    [
+      "collector's choice",
+      "the"
+    ],
+    [
+      "collector's choice",
+      "then"
+    ],
+    [
+      "collector's choice",
+      "update"
+    ],
+    [
+      "collector's choice",
+      "you"
+    ],
+    [
+      "collector's edge",
+      "12th"
+    ],
+    [
+      "collector's edge",
+      "advantage"
+    ],
+    [
+      "collector's edge",
+      "black"
+    ],
+    [
+      "collector's edge",
+      "boss"
+    ],
+    [
+      "collector's edge",
+      "edge"
+    ],
+    [
+      "collector's edge",
+      "edgetech"
+    ],
+    [
+      "collector's edge",
+      "eg"
+    ],
+    [
+      "collector's edge",
+      "excalibur"
+    ],
+    [
+      "collector's edge",
+      "extreme"
+    ],
+    [
+      "collector's edge",
+      "first"
+    ],
+    [
+      "collector's edge",
+      "fury"
+    ],
+    [
+      "collector's edge",
+      "impulse"
+    ],
+    [
+      "collector's edge",
+      "instant"
+    ],
+    [
+      "collector's edge",
+      "low"
+    ],
+    [
+      "collector's edge",
+      "masters"
+    ],
+    [
+      "collector's edge",
+      "odyssey"
+    ],
+    [
+      "collector's edge",
+      "president's"
+    ],
+    [
+      "collector's edge",
+      "sn"
+    ],
+    [
+      "collector's edge",
+      "supreme"
+    ],
+    [
+      "collector's edge",
+      "the"
+    ],
+    [
+      "collector's edge",
+      "timewarp"
+    ],
+    [
+      "collector's edge",
+      "triumph"
+    ],
+    [
+      "college",
+      "ticket"
+    ],
+    [
+      "collegiate",
+      "collection"
+    ],
+    [
+      "collegiate collection",
+      "michigan"
+    ],
+    [
+      "collegiate collection",
+      "north"
+    ],
+    [
+      "collegiate collection",
+      "ucla"
+    ],
+    [
+      "conlon",
+      "collection"
+    ],
+    [
+      "conlon",
+      "world"
+    ],
+    [
+      "conlon collection",
+      "trivia"
+    ],
+    [
+      "conlon collection",
+      "tsn"
+    ],
+    [
+      "contenders",
+      "draft picks"
+    ],
+    [
+      "contenders",
+      "touchdown"
+    ],
+    [
+      "continental",
+      "baking"
+    ],
+    [
+      "courtside",
+      "flashback"
+    ],
+    [
+      "courtside flashback",
+      "numbered"
+    ],
+    [
+      "dav",
+      "major"
+    ],
+    [
+      "delphi",
+      "bradford"
+    ],
+    [
+      "delphi bradford",
+      "exchange"
+    ],
+    [
+      "diamond",
+      "sports"
+    ],
+    [
+      "dime",
+      "sports"
+    ],
+    [
+      "dime sports",
+      "magazine"
+    ],
+    [
+      "donald",
+      "trump"
+    ],
+    [
+      "draft",
+      "class"
+    ],
+    [
+      "draft",
+      "picks"
+    ],
+    [
+      "duracell",
+      "power"
+    ],
+    [
+      "duracell power",
+      "players"
+    ],
+    [
+      "elite",
+      "extra"
+    ],
+    [
+      "elite extra",
+      "aspirations"
+    ],
+    [
+      "elite extra",
+      "hidden"
+    ],
+    [
+      "elite extra",
+      "prime"
+    ],
+    [
+      "elite extra",
+      "status"
+    ],
+    [
+      "emotion",
+      "xl"
+    ],
+    [
+      "emotion xl",
+      "dfense"
+    ],
+    [
+      "fazbear",
+      "entertain"
+    ],
+    [
+      "finals",
+      "199293"
+    ],
+    [
+      "finals",
+      "199798"
+    ],
+    [
+      "finest",
+      "aqua"
+    ],
+    [
+      "finest",
+      "aura"
+    ],
+    [
+      "finest",
+      "black"
+    ],
+    [
+      "finest",
+      "blue"
+    ],
+    [
+      "finest",
+      "bulldozers"
+    ],
+    [
+      "finest",
+      "double"
+    ],
+    [
+      "finest",
+      "dynamos"
+    ],
+    [
+      "finest",
+      "embossed"
+    ],
+    [
+      "finest",
+      "field"
+    ],
+    [
+      "finest",
+      "finest"
+    ],
+    [
+      "finest",
+      "firsts"
+    ],
+    [
+      "finest",
+      "franchise"
+    ],
+    [
+      "finest",
+      "franchises"
+    ],
+    [
+      "finest",
+      "gamers"
+    ],
+    [
+      "finest",
+      "gems"
+    ],
+    [
+      "finest",
+      "generations"
+    ],
+    [
+      "finest",
+      "hitmen"
+    ],
+    [
+      "finest",
+      "intimidators"
+    ],
+    [
+      "finest",
+      "masters"
+    ],
+    [
+      "finest",
+      "mint"
+    ],
+    [
+      "finest",
+      "nonprotected"
+    ],
+    [
+      "finest",
+      "preproduction"
+    ],
+    [
+      "finest",
+      "refractors"
+    ],
+    [
+      "finest",
+      "sky"
+    ],
+    [
+      "finest",
+      "sterling"
+    ],
+    [
+      "finest",
+      "w coating"
+    ],
+    [
+      "finest",
+      "warriors"
+    ],
+    [
+      "finest",
+      "with"
+    ],
+    [
+      "finest 1996",
+      "intimidators"
+    ],
+    [
+      "finest bulldozers",
+      "with"
+    ],
+    [
+      "finest dynamos",
+      "with"
+    ],
+    [
+      "finest field",
+      "generals"
+    ],
+    [
+      "finest finest",
+      "moments"
+    ],
+    [
+      "finest franchise",
+      "finest"
+    ],
+    [
+      "finest hitmen",
+      "promos"
+    ],
+    [
+      "finest hitmen",
+      "refractors"
+    ],
+    [
+      "finest hitmen",
+      "with"
+    ],
+    [
+      "finest masters",
+      "promos"
+    ],
+    [
+      "finest masters",
+      "w coating"
+    ],
+    [
+      "finest masters",
+      "with"
+    ],
+    [
+      "finest sky",
+      "blue"
+    ],
+    [
+      "finest sterling",
+      "w coating"
+    ],
+    [
+      "finest with",
+      "coating"
+    ],
+    [
+      "flair",
+      "diamond"
+    ],
+    [
+      "flair",
+      "foil"
+    ],
+    [
+      "flair",
+      "hot"
+    ],
+    [
+      "flair",
+      "infield"
+    ],
+    [
+      "flair",
+      "outfield"
+    ],
+    [
+      "flair",
+      "promotional"
+    ],
+    [
+      "flair",
+      "showcase"
+    ],
+    [
+      "flair",
+      "usa"
+    ],
+    [
+      "flair",
+      "wave"
+    ],
+    [
+      "flair hot",
+      "numbers"
+    ],
+    [
+      "flair outfield",
+      "power"
+    ],
+    [
+      "flair showcase",
+      "flair showcase"
+    ],
+    [
+      "flair showcase",
+      "hot"
+    ],
+    [
+      "flair showcase",
+      "legacy"
+    ],
+    [
+      "flair showcase",
+      "row"
+    ],
+    [
+      "flair showcase",
+      "style"
+    ],
+    [
+      "flair usa",
+      "golden"
+    ],
+    [
+      "flair usa",
+      "shaq"
+    ],
+    [
+      "flair wave",
+      "of"
+    ],
+    [
+      "foot",
+      "locker"
+    ],
+    [
+      "front",
+      "row"
+    ],
+    [
+      "front row",
+      "dikembe"
+    ],
+    [
+      "front row",
+      "draft"
+    ],
+    [
+      "front row",
+      "gold"
+    ],
+    [
+      "front row",
+      "top"
+    ],
+    [
+      "funtime",
+      "chica"
+    ],
+    [
+      "gold",
+      "performance"
+    ],
+    [
+      "grand",
+      "slam"
+    ],
+    [
+      "grand slam",
+      "(unlicensed)"
+    ],
+    [
+      "grand slam",
+      "dice"
+    ],
+    [
+      "guard",
+      "gold"
+    ],
+    [
+      "guard gold",
+      "signature"
+    ],
+    [
+      "heads",
+      "&"
+    ],
+    [
+      "home",
+      "run"
+    ],
+    [
+      "home run",
+      "heroes"
+    ],
+    [
+      "home run",
+      "leaders"
+    ],
+    [
+      "homers",
+      "cookies"
+    ],
+    [
+      "hoops",
+      "detroit"
+    ],
+    [
+      "hoops",
+      "night"
+    ],
+    [
+      "hygrade",
+      "alltime"
+    ],
+    [
+      "hygrade alltime",
+      "greats"
+    ],
+    [
+      "icon",
+      "sports"
+    ],
+    [
+      "icon sports",
+      "profiles"
+    ],
+    [
+      "images",
+      "allpro"
+    ],
+    [
+      "impel",
+      "olympicards"
+    ],
+    [
+      "impel",
+      "wcw"
+    ],
+    [
+      "investor's",
+      "journal"
+    ],
+    [
+      "jimmy",
+      "dean"
+    ],
+    [
+      "jimmy dean",
+      "signature"
+    ],
+    [
+      "jose",
+      "canseco"
+    ],
+    [
+      "jose canseco",
+      "(yellow)"
+    ],
+    [
+      "jumbo",
+      "california"
+    ],
+    [
+      "kahn's",
+      "cincinnati"
+    ],
+    [
+      "kahn's cincinnati",
+      "reds"
+    ],
+    [
+      "kalifornia",
+      "kardz"
+    ],
+    [
+      "kenner",
+      "starting"
+    ],
+    [
+      "king",
+      "b"
+    ],
+    [
+      "king b",
+      "discs"
+    ],
+    [
+      "kraft",
+      "home"
+    ],
+    [
+      "kraft",
+      "singles"
+    ],
+    [
+      "kraft singles",
+      "superstars"
+    ],
+    [
+      "leaders",
+      "interceptions"
+    ],
+    [
+      "leaders",
+      "punting"
+    ],
+    [
+      "leaders",
+      "receiving"
+    ],
+    [
+      "leaders",
+      "scoring"
+    ],
+    [
+      "leading",
+      "firemen"
+    ],
+    [
+      "league",
+      "promo"
+    ],
+    [
+      "legacy",
+      "net"
+    ],
+    [
+      "legacy",
+      "refractor"
+    ],
+    [
+      "legends",
+      "sports"
+    ],
+    [
+      "legends sports",
+      "memorabilia"
+    ],
+    [
+      "light",
+      "blue"
+    ],
+    [
+      "line",
+      "drive"
+    ],
+    [
+      "line drive",
+      "collectabooks"
+    ],
+    [
+      "living",
+      "legends"
+    ],
+    [
+      "living legends",
+      "blue"
+    ],
+    [
+      "living legends",
+      "gray"
+    ],
+    [
+      "living legends",
+      "orange"
+    ],
+    [
+      "m.v.p.",
+      "big league"
+    ],
+    [
+      "magazine",
+      "replicards"
+    ],
+    [
+      "maxx",
+      "racing"
+    ],
+    [
+      "maxx",
+      "signed"
+    ],
+    [
+      "mcdonald\u2019s",
+      "pok\u00e9mon"
+    ],
+    [
+      "megacards",
+      "babe"
+    ],
+    [
+      "megacards babe",
+      "ruth"
+    ],
+    [
+      "metal",
+      "platinum"
+    ],
+    [
+      "metal",
+      "universe"
+    ],
+    [
+      "metal universe",
+      "caught"
+    ],
+    [
+      "metal universe",
+      "diamond"
+    ],
+    [
+      "metal universe",
+      "hardball"
+    ],
+    [
+      "metal universe",
+      "heavy"
+    ],
+    [
+      "metal universe",
+      "magnetic"
+    ],
+    [
+      "metal universe",
+      "mining"
+    ],
+    [
+      "metal universe",
+      "mlpd"
+    ],
+    [
+      "metal universe",
+      "mother"
+    ],
+    [
+      "metal universe",
+      "titanium"
+    ],
+    [
+      "metal universe",
+      "universal"
+    ],
+    [
+      "milk",
+      "bone"
+    ],
+    [
+      "milk bone",
+      "super"
+    ],
+    [
+      "minor",
+      "league"
+    ],
+    [
+      "mootown",
+      "snackers"
+    ],
+    [
+      "mother's",
+      "cookies"
+    ],
+    [
+      "mother's cookies",
+      "nolan"
+    ],
+    [
+      "music",
+      "man"
+    ],
+    [
+      "n.b.a.",
+      "superstars"
+    ],
+    [
+      "n.b.a. superstars",
+      "(green"
+    ],
+    [
+      "national",
+      "convention"
+    ],
+    [
+      "national",
+      "day"
+    ],
+    [
+      "national",
+      "packtime"
+    ],
+    [
+      "ncaa",
+      "champions"
+    ],
+    [
+      "new",
+      "pinnacle"
+    ],
+    [
+      "new",
+      "york"
+    ],
+    [
+      "new york",
+      "yankees"
+    ],
+    [
+      "nfc",
+      "championship"
+    ],
+    [
+      "nl",
+      "postseason"
+    ],
+    [
+      "nl",
+      "strikeout"
+    ],
+    [
+      "nmmt",
+      "or"
+    ],
+    [
+      "nmmt or",
+      "better"
+    ],
+    [
+      "oddball",
+      "promo"
+    ],
+    [
+      "oddball promo",
+      "(unlicensed)"
+    ],
+    [
+      "opeechee",
+      "oc"
+    ],
+    [
+      "opeechee",
+      "peechee"
+    ],
+    [
+      "opeechee",
+      "performers"
+    ],
+    [
+      "opeechee",
+      "redemption"
+    ],
+    [
+      "opeechee",
+      "stickers"
+    ],
+    [
+      "opeechee peechee",
+      "allstars"
+    ],
+    [
+      "opeechee performers",
+      "foil"
+    ],
+    [
+      "opeechee stickers",
+      "super"
+    ],
+    [
+      "oscar",
+      "mayer"
+    ],
+    [
+      "padre",
+      "hitman"
+    ],
+    [
+      "passing",
+      "leaders"
+    ],
+    [
+      "personal",
+      "data"
+    ],
+    [
+      "playball",
+      "u.s.a."
+    ],
+    [
+      "playball u.s.a.",
+      "(unlicensed)"
+    ],
+    [
+      "player",
+      "'89"
+    ],
+    [
+      "playoff",
+      "absolute"
+    ],
+    [
+      "playoff",
+      "brett"
+    ],
+    [
+      "playoff",
+      "contenders"
+    ],
+    [
+      "playoff",
+      "first"
+    ],
+    [
+      "playoff",
+      "ground"
+    ],
+    [
+      "playoff",
+      "headliners"
+    ],
+    [
+      "playoff",
+      "honors"
+    ],
+    [
+      "playoff",
+      "illusions"
+    ],
+    [
+      "playoff",
+      "jerome"
+    ],
+    [
+      "playoff",
+      "jerry"
+    ],
+    [
+      "playoff",
+      "momentum"
+    ],
+    [
+      "playoff",
+      "piece"
+    ],
+    [
+      "playoff",
+      "playoff"
+    ],
+    [
+      "playoff",
+      "playoffs"
+    ],
+    [
+      "playoff",
+      "portraits"
+    ],
+    [
+      "playoff",
+      "prestige"
+    ],
+    [
+      "playoff",
+      "prime"
+    ],
+    [
+      "playoff",
+      "promos"
+    ],
+    [
+      "playoff",
+      "prototypes"
+    ],
+    [
+      "playoff",
+      "sports"
+    ],
+    [
+      "playoff",
+      "super"
+    ],
+    [
+      "playoff",
+      "trophy"
+    ],
+    [
+      "playoff",
+      "zone"
+    ],
+    [
+      "playoff absolute",
+      "diecut"
+    ],
+    [
+      "playoff absolute",
+      "helmet"
+    ],
+    [
+      "playoff absolute",
+      "memorabilia"
+    ],
+    [
+      "playoff absolute",
+      "retail"
+    ],
+    [
+      "playoff absolute",
+      "ssd"
+    ],
+    [
+      "playoff absolute",
+      "xtreme"
+    ],
+    [
+      "playoff contenders",
+      "award"
+    ],
+    [
+      "playoff contenders",
+      "genuine"
+    ],
+    [
+      "playoff contenders",
+      "leather"
+    ],
+    [
+      "playoff contenders",
+      "open"
+    ],
+    [
+      "playoff contenders",
+      "pennant"
+    ],
+    [
+      "playoff contenders",
+      "pennants"
+    ],
+    [
+      "playoff contenders",
+      "ssd"
+    ],
+    [
+      "playoff contenders",
+      "ticket"
+    ],
+    [
+      "playoff ground",
+      "attack"
+    ],
+    [
+      "playoff momentum",
+      "retail"
+    ],
+    [
+      "playoff momentum",
+      "ssd"
+    ],
+    [
+      "playoff playoff",
+      "club"
+    ],
+    [
+      "playoff prestige",
+      "changing"
+    ],
+    [
+      "playoff prestige",
+      "connections"
+    ],
+    [
+      "playoff prestige",
+      "exp"
+    ],
+    [
+      "playoff prestige",
+      "league"
+    ],
+    [
+      "playoff prestige",
+      "retail"
+    ],
+    [
+      "playoff prestige",
+      "ssd"
+    ],
+    [
+      "playoff prestige",
+      "tandems"
+    ],
+    [
+      "playoff prime",
+      "x's"
+    ],
+    [
+      "playoff sports",
+      "picks"
+    ],
+    [
+      "playoff zone",
+      "frenzy"
+    ],
+    [
+      "pokemon",
+      "astral"
+    ],
+    [
+      "pokemon",
+      "fusion"
+    ],
+    [
+      "post",
+      "cereal"
+    ],
+    [
+      "post",
+      "season"
+    ],
+    [
+      "post",
+      "super"
+    ],
+    [
+      "post cereal",
+      "kraft"
+    ],
+    [
+      "post cereal",
+      "magic"
+    ],
+    [
+      "prestige",
+      "alma"
+    ],
+    [
+      "prizm",
+      "draft"
+    ],
+    [
+      "prizm draft",
+      "blue"
+    ],
+    [
+      "prizm draft",
+      "hyper"
+    ],
+    [
+      "prizm draft",
+      "picks"
+    ],
+    [
+      "pro",
+      "line"
+    ],
+    [
+      "pro",
+      "picks"
+    ],
+    [
+      "pro",
+      "set"
+    ],
+    [
+      "pro line",
+      "board"
+    ],
+    [
+      "pro line",
+      "brett"
+    ],
+    [
+      "pro line",
+      "checklist"
+    ],
+    [
+      "pro line",
+      "dc"
+    ],
+    [
+      "pro line",
+      "diecut"
+    ],
+    [
+      "pro line",
+      "game"
+    ],
+    [
+      "pro line",
+      "gems"
+    ],
+    [
+      "pro line",
+      "ii"
+    ],
+    [
+      "pro line",
+      "live"
+    ],
+    [
+      "pro line",
+      "memorabilia"
+    ],
+    [
+      "pro line",
+      "mobil"
+    ],
+    [
+      "pro line",
+      "mvp"
+    ],
+    [
+      "pro line",
+      "national"
+    ],
+    [
+      "pro line",
+      "pogs"
+    ],
+    [
+      "pro line",
+      "portraits"
+    ],
+    [
+      "pro line",
+      "pro"
+    ],
+    [
+      "pro line",
+      "profiles"
+    ],
+    [
+      "pro line",
+      "silver"
+    ],
+    [
+      "pro picks",
+      "gold"
+    ],
+    [
+      "pro set",
+      "allrookies"
+    ],
+    [
+      "pro set",
+      "collectabooks"
+    ],
+    [
+      "pro set",
+      "collectible"
+    ],
+    [
+      "pro set",
+      "draft"
+    ],
+    [
+      "pro set",
+      "emmitt"
+    ],
+    [
+      "pro set",
+      "gazette"
+    ],
+    [
+      "pro set",
+      "gold"
+    ],
+    [
+      "pro set",
+      "heisman"
+    ],
+    [
+      "pro set",
+      "of"
+    ],
+    [
+      "pro set",
+      "platinum"
+    ],
+    [
+      "pro set",
+      "power"
+    ],
+    [
+      "pro set",
+      "pro"
+    ],
+    [
+      "pro set",
+      "santa"
+    ],
+    [
+      "pro set",
+      "stat"
+    ],
+    [
+      "pro set",
+      "super"
+    ],
+    [
+      "pro set",
+      "wlaf"
+    ],
+    [
+      "procards",
+      "triple"
+    ],
+    [
+      "promo",
+      "300"
+    ],
+    [
+      "properties",
+      "back"
+    ],
+    [
+      "properties",
+      "christmas"
+    ],
+    [
+      "properties back",
+      "to"
+    ],
+    [
+      "ralston",
+      "purina"
+    ],
+    [
+      "rawlings",
+      "rare"
+    ],
+    [
+      "rbi",
+      "leaders"
+    ],
+    [
+      "receiving",
+      "leaders"
+    ],
+    [
+      "receiving leaders",
+      "(haywood"
+    ],
+    [
+      "receiving leaders",
+      "(jerry"
+    ],
+    [
+      "rembrandt",
+      "ultrapro"
+    ],
+    [
+      "ritzoreo",
+      "play"
+    ],
+    [
+      "ritzoreo play",
+      "ball"
+    ],
+    [
+      "roger",
+      "clemens"
+    ],
+    [
+      "royal",
+      "rookies"
+    ],
+    [
+      "rushing",
+      "leaders"
+    ],
+    [
+      "sack",
+      "leaders"
+    ],
+    [
+      "sage",
+      "artistry"
+    ],
+    [
+      "sage",
+      "hit"
+    ],
+    [
+      "san",
+      "diego"
+    ],
+    [
+      "scd",
+      "price"
+    ],
+    [
+      "scd price",
+      "guide"
+    ],
+    [
+      "select",
+      "&"
+    ],
+    [
+      "select",
+      "artist's"
+    ],
+    [
+      "select",
+      "certified"
+    ],
+    [
+      "select",
+      "checklist"
+    ],
+    [
+      "select",
+      "fluid"
+    ],
+    [
+      "select",
+      "prizm"
+    ],
+    [
+      "select",
+      "swatches"
+    ],
+    [
+      "select &",
+      "traded"
+    ],
+    [
+      "select certified",
+      "checklists"
+    ],
+    [
+      "select certified",
+      "premium"
+    ],
+    [
+      "select certified",
+      "red"
+    ],
+    [
+      "showdown",
+      "1st"
+    ],
+    [
+      "showdown",
+      "promos"
+    ],
+    [
+      "showdown",
+      "strategy"
+    ],
+    [
+      "showdown",
+      "unlimited"
+    ],
+    [
+      "showdown 1st",
+      "strategy"
+    ],
+    [
+      "showtime",
+      "magazine"
+    ],
+    [
+      "signature",
+      "rookies"
+    ],
+    [
+      "signature rookies",
+      "autophonex"
+    ],
+    [
+      "signature rookies",
+      "draft"
+    ],
+    [
+      "signature rookies",
+      "kromax"
+    ],
+    [
+      "signature rookies",
+      "primetime"
+    ],
+    [
+      "skippy",
+      "derek"
+    ],
+    [
+      "sp",
+      "allpro"
+    ],
+    [
+      "sp",
+      "allpros"
+    ],
+    [
+      "sp",
+      "authentic"
+    ],
+    [
+      "sp",
+      "championship"
+    ],
+    [
+      "sp",
+      "checklist"
+    ],
+    [
+      "sp",
+      "die"
+    ],
+    [
+      "sp",
+      "diecut"
+    ],
+    [
+      "sp",
+      "foil"
+    ],
+    [
+      "sp",
+      "fx"
+    ],
+    [
+      "sp",
+      "game"
+    ],
+    [
+      "sp",
+      "great"
+    ],
+    [
+      "sp",
+      "holoview"
+    ],
+    [
+      "sp",
+      "holoviews"
+    ],
+    [
+      "sp",
+      "joe"
+    ],
+    [
+      "sp",
+      "legendary"
+    ],
+    [
+      "sp",
+      "marquee"
+    ],
+    [
+      "sp",
+      "mint"
+    ],
+    [
+      "sp",
+      "platinum"
+    ],
+    [
+      "sp",
+      "prospects"
+    ],
+    [
+      "sp",
+      "record"
+    ],
+    [
+      "sp",
+      "superbafoil"
+    ],
+    [
+      "sp",
+      "top"
+    ],
+    [
+      "sp allpro",
+      "holoviews"
+    ],
+    [
+      "sp allpros",
+      "die"
+    ],
+    [
+      "sp authentic",
+      "allstar"
+    ],
+    [
+      "sp authentic",
+      "authentic"
+    ],
+    [
+      "sp authentic",
+      "heroes"
+    ],
+    [
+      "sp authentic",
+      "home run"
+    ],
+    [
+      "sp authentic",
+      "marquee"
+    ],
+    [
+      "sp authentic",
+      "maximum"
+    ],
+    [
+      "sp authentic",
+      "power"
+    ],
+    [
+      "sp authentic",
+      "profiles"
+    ],
+    [
+      "sp authentic",
+      "retail"
+    ],
+    [
+      "sp authentic",
+      "sheer"
+    ],
+    [
+      "sp championship",
+      "die"
+    ],
+    [
+      "sp championship",
+      "playoff"
+    ],
+    [
+      "sp die",
+      "cut"
+    ],
+    [
+      "sp game",
+      "bat"
+    ],
+    [
+      "sp game",
+      "used"
+    ],
+    [
+      "sp holoview",
+      "fx"
+    ],
+    [
+      "sp legendary",
+      "cuts"
+    ],
+    [
+      "sp marquee",
+      "matchups"
+    ],
+    [
+      "sp top",
+      "prospects"
+    ],
+    [
+      "sport",
+      "superstar"
+    ],
+    [
+      "sportflics",
+      "center"
+    ],
+    [
+      "sportflics",
+      "decade"
+    ],
+    [
+      "sportflics",
+      "exclusive"
+    ],
+    [
+      "sportflics",
+      "rookies"
+    ],
+    [
+      "sportflics",
+      "speed"
+    ],
+    [
+      "sportflix",
+      "double"
+    ],
+    [
+      "sportflix",
+      "promotion"
+    ],
+    [
+      "sportflix",
+      "rolling"
+    ],
+    [
+      "sportflix",
+      "uc3"
+    ],
+    [
+      "sportflix uc3",
+      "clear"
+    ],
+    [
+      "sportflix uc3",
+      "cyclone"
+    ],
+    [
+      "sportkings",
+      "volume"
+    ],
+    [
+      "sports",
+      "illustrated"
+    ],
+    [
+      "sports",
+      "stars"
+    ],
+    [
+      "sports",
+      "weekly"
+    ],
+    [
+      "sports illustrated",
+      "covers"
+    ],
+    [
+      "sports illustrated",
+      "extra"
+    ],
+    [
+      "sports illustrated",
+      "for"
+    ],
+    [
+      "sports illustrated",
+      "great"
+    ],
+    [
+      "sports illustrated",
+      "headliners"
+    ],
+    [
+      "sports illustrated",
+      "promo"
+    ],
+    [
+      "sports illustrated",
+      "then"
+    ],
+    [
+      "sports illustrated",
+      "world"
+    ],
+    [
+      "spx",
+      "2nd"
+    ],
+    [
+      "spx",
+      "die"
+    ],
+    [
+      "spx",
+      "diecut"
+    ],
+    [
+      "spx",
+      "finite"
+    ],
+    [
+      "spx",
+      "holofame"
+    ],
+    [
+      "spx",
+      "prolifics"
+    ],
+    [
+      "spx",
+      "silver"
+    ],
+    [
+      "spx",
+      "steel"
+    ],
+    [
+      "spx finite",
+      "radiance"
+    ],
+    [
+      "spx finite",
+      "sn"
+    ],
+    [
+      "spx finite",
+      "spectrum"
+    ],
+    [
+      "spx silver",
+      "diecut"
+    ],
+    [
+      "stadium",
+      "club"
+    ],
+    [
+      "stadium",
+      "news"
+    ],
+    [
+      "stadium club",
+      "bats"
+    ],
+    [
+      "stadium club",
+      "beam"
+    ],
+    [
+      "stadium club",
+      "best"
+    ],
+    [
+      "stadium club",
+      "black"
+    ],
+    [
+      "stadium club",
+      "bowman's best"
+    ],
+    [
+      "stadium club",
+      "brace"
+    ],
+    [
+      "stadium club",
+      "capture"
+    ],
+    [
+      "stadium club",
+      "chalk"
+    ],
+    [
+      "stadium club",
+      "charter"
+    ],
+    [
+      "stadium club",
+      "chrome"
+    ],
+    [
+      "stadium club",
+      "contact"
+    ],
+    [
+      "stadium club",
+      "crunch"
+    ],
+    [
+      "stadium club",
+      "dome"
+    ],
+    [
+      "stadium club",
+      "dugout"
+    ],
+    [
+      "stadium club",
+      "dynasty"
+    ],
+    [
+      "stadium club",
+      "emperors"
+    ],
+    [
+      "stadium club",
+      "extreme"
+    ],
+    [
+      "stadium club",
+      "firebrand"
+    ],
+    [
+      "stadium club",
+      "golden"
+    ],
+    [
+      "stadium club",
+      "hr"
+    ],
+    [
+      "stadium club",
+      "info"
+    ],
+    [
+      "stadium club",
+      "isometrics"
+    ],
+    [
+      "stadium club",
+      "leading"
+    ],
+    [
+      "stadium club",
+      "legends"
+    ],
+    [
+      "stadium club",
+      "master"
+    ],
+    [
+      "stadium club",
+      "mega"
+    ],
+    [
+      "stadium club",
+      "members"
+    ],
+    [
+      "stadium club",
+      "metalists"
+    ],
+    [
+      "stadium club",
+      "mls"
+    ],
+    [
+      "stadium club",
+      "murphy"
+    ],
+    [
+      "stadium club",
+      "mvps"
+    ],
+    [
+      "stadium club",
+      "nemeses"
+    ],
+    [
+      "stadium club",
+      "never"
+    ],
+    [
+      "stadium club",
+      "of"
+    ],
+    [
+      "stadium club",
+      "onyx"
+    ],
+    [
+      "stadium club",
+      "patent"
+    ],
+    [
+      "stadium club",
+      "photo"
+    ],
+    [
+      "stadium club",
+      "power"
+    ],
+    [
+      "stadium club",
+      "pure"
+    ],
+    [
+      "stadium club",
+      "quick"
+    ],
+    [
+      "stadium club",
+      "record"
+    ],
+    [
+      "stadium club",
+      "red"
+    ],
+    [
+      "stadium club",
+      "reel"
+    ],
+    [
+      "stadium club",
+      "ring"
+    ],
+    [
+      "stadium club",
+      "silver"
+    ],
+    [
+      "stadium club",
+      "stadium"
+    ],
+    [
+      "stadium club",
+      "stadium club"
+    ],
+    [
+      "stadium club",
+      "super"
+    ],
+    [
+      "stadium club",
+      "texas"
+    ],
+    [
+      "stadium club",
+      "trans"
+    ],
+    [
+      "stadium club",
+      "transactions"
+    ],
+    [
+      "stadium club",
+      "triumvirates"
+    ],
+    [
+      "stadium club",
+      "tsc"
+    ],
+    [
+      "stadium club",
+      "ultrapro"
+    ],
+    [
+      "stadium club",
+      "video"
+    ],
+    [
+      "stadium club",
+      "virtual"
+    ],
+    [
+      "stadium club",
+      "virtuosos"
+    ],
+    [
+      "starline",
+      "long"
+    ],
+    [
+      "starline long",
+      "john"
+    ],
+    [
+      "stars",
+      "(bernie"
+    ],
+    [
+      "stars",
+      "(bill"
+    ],
+    [
+      "stars",
+      "(charlie"
+    ],
+    [
+      "stars",
+      "(jim"
+    ],
+    [
+      "stars",
+      "(joe"
+    ],
+    [
+      "stars",
+      "(larry"
+    ],
+    [
+      "stars",
+      "(lloyd"
+    ],
+    [
+      "stars",
+      "(mike"
+    ],
+    [
+      "stars",
+      "(norm"
+    ],
+    [
+      "stars",
+      "(oscar"
+    ],
+    [
+      "stars",
+      "(steve"
+    ],
+    [
+      "stars",
+      "fred"
+    ],
+    [
+      "stars",
+      "steve"
+    ],
+    [
+      "stars",
+      "tim"
+    ],
+    [
+      "stars",
+      "tom"
+    ],
+    [
+      "stars",
+      "vince"
+    ],
+    [
+      "stars (jim",
+      "dunegan"
+    ],
+    [
+      "stars (joe",
+      "lahoud"
+    ],
+    [
+      "stars (mike",
+      "adamson"
+    ],
+    [
+      "stars vince",
+      "colbert"
+    ],
+    [
+      "starting",
+      "lineup"
+    ],
+    [
+      "stat",
+      "back"
+    ],
+    [
+      "stat back",
+      "(unlicensed)"
+    ],
+    [
+      "stolen",
+      "base"
+    ],
+    [
+      "strikeout",
+      "leaders"
+    ],
+    [
+      "strikeout leaders",
+      "mcdowell"
+    ],
+    [
+      "studio",
+      "freeze"
+    ],
+    [
+      "studio",
+      "gold"
+    ],
+    [
+      "studio",
+      "heritage"
+    ],
+    [
+      "studio",
+      "platinum"
+    ],
+    [
+      "studio",
+      "portraiot"
+    ],
+    [
+      "st\u2606r",
+      "big league"
+    ],
+    [
+      "st\u2606r",
+      "purple"
+    ],
+    [
+      "st\u2606r",
+      "silver"
+    ],
+    [
+      "st\u2606r purple",
+      "(unlicensed)"
+    ],
+    [
+      "st\u2606r silver",
+      "(unlicensed)"
+    ],
+    [
+      "summit",
+      "ballparks"
+    ],
+    [
+      "summit",
+      "bat"
+    ],
+    [
+      "summit",
+      "deja"
+    ],
+    [
+      "summit",
+      "delivery"
+    ],
+    [
+      "summit",
+      "ground"
+    ],
+    [
+      "summit",
+      "nth"
+    ],
+    [
+      "summit",
+      "positions"
+    ],
+    [
+      "summit",
+      "silver"
+    ],
+    [
+      "summit silver",
+      "foilboard"
+    ],
+    [
+      "sunoco",
+      "dream"
+    ],
+    [
+      "superior",
+      "rookies"
+    ],
+    [
+      "superstar",
+      "sluggers"
+    ],
+    [
+      "superstars",
+      "(unlicensed)"
+    ],
+    [
+      "superstars",
+      "promo"
+    ],
+    [
+      "ted",
+      "williams"
+    ],
+    [
+      "ted williams",
+      "constellation"
+    ],
+    [
+      "ted williams",
+      "coop"
+    ],
+    [
+      "ted williams",
+      "roger"
+    ],
+    [
+      "ted williams",
+      "sir"
+    ],
+    [
+      "the",
+      "bar"
+    ],
+    [
+      "the",
+      "future"
+    ],
+    [
+      "the",
+      "new"
+    ],
+    [
+      "the",
+      "shanks"
+    ],
+    [
+      "the shanks",
+      "collection"
+    ],
+    [
+      "time",
+      "out"
+    ],
+    [
+      "tombstone",
+      "pizza"
+    ],
+    [
+      "tombstone pizza",
+      "superpro"
+    ],
+    [
+      "tony's",
+      "career"
+    ],
+    [
+      "triple",
+      "play"
+    ],
+    [
+      "triple play",
+      "action"
+    ],
+    [
+      "triple play",
+      "bomb"
+    ],
+    [
+      "triple play",
+      "nicknames"
+    ],
+    [
+      "tuff",
+      "stuff"
+    ],
+    [
+      "tuff stuff",
+      "jr."
+    ],
+    [
+      "u.s.",
+      "playing"
+    ],
+    [
+      "u.s. playing",
+      "co."
+    ],
+    [
+      "ud",
+      "authentics"
+    ],
+    [
+      "ud",
+      "choice"
+    ],
+    [
+      "ud",
+      "graded"
+    ],
+    [
+      "ud",
+      "ionix"
+    ],
+    [
+      "ud",
+      "mini"
+    ],
+    [
+      "ud",
+      "patch"
+    ],
+    [
+      "ud",
+      "piece"
+    ],
+    [
+      "ud",
+      "reserve"
+    ],
+    [
+      "ud",
+      "top"
+    ],
+    [
+      "ud choice",
+      "checklist"
+    ],
+    [
+      "ud choice",
+      "choice"
+    ],
+    [
+      "ud choice",
+      "draw"
+    ],
+    [
+      "ud choice",
+      "grand"
+    ],
+    [
+      "ud choice",
+      "homerun"
+    ],
+    [
+      "ud choice",
+      "mini"
+    ],
+    [
+      "ud choice",
+      "opening"
+    ],
+    [
+      "ud choice",
+      "preview"
+    ],
+    [
+      "ud choice",
+      "starquest"
+    ],
+    [
+      "ud choice",
+      "starquest rookquest"
+    ],
+    [
+      "ud ionix",
+      "atomic"
+    ],
+    [
+      "ud ionix",
+      "biorhythm"
+    ],
+    [
+      "ud ionix",
+      "hyper"
+    ],
+    [
+      "ud ionix",
+      "shockwave"
+    ],
+    [
+      "ud ionix",
+      "techno"
+    ],
+    [
+      "ud patch",
+      "collection"
+    ],
+    [
+      "ud top",
+      "prospects"
+    ],
+    [
+      "ultra",
+      "2nd"
+    ],
+    [
+      "ultra",
+      "allrookie"
+    ],
+    [
+      "ultra",
+      "allstars"
+    ],
+    [
+      "ultra",
+      "award"
+    ],
+    [
+      "ultra",
+      "back"
+    ],
+    [
+      "ultra",
+      "blitzkrieg"
+    ],
+    [
+      "ultra",
+      "career"
+    ],
+    [
+      "ultra",
+      "checklist"
+    ],
+    [
+      "ultra",
+      "checklists"
+    ],
+    [
+      "ultra",
+      "club"
+    ],
+    [
+      "ultra",
+      "comeback"
+    ],
+    [
+      "ultra",
+      "decade"
+    ],
+    [
+      "ultra",
+      "diamond"
+    ],
+    [
+      "ultra",
+      "double"
+    ],
+    [
+      "ultra",
+      "extra"
+    ],
+    [
+      "ultra",
+      "flair"
+    ],
+    [
+      "ultra",
+      "flair hot"
+    ],
+    [
+      "ultra",
+      "follow"
+    ],
+    [
+      "ultra",
+      "gold"
+    ],
+    [
+      "ultra",
+      "ground"
+    ],
+    [
+      "ultra",
+      "hitting"
+    ],
+    [
+      "ultra",
+      "home"
+    ],
+    [
+      "ultra",
+      "hr"
+    ],
+    [
+      "ultra",
+      "k"
+    ],
+    [
+      "ultra",
+      "leather"
+    ],
+    [
+      "ultra",
+      "lucky"
+    ],
+    [
+      "ultra",
+      "midsummer"
+    ],
+    [
+      "ultra",
+      "moonshots"
+    ],
+    [
+      "ultra",
+      "pizzazz"
+    ],
+    [
+      "ultra",
+      "power"
+    ],
+    [
+      "ultra",
+      "prime"
+    ],
+    [
+      "ultra",
+      "rbi"
+    ],
+    [
+      "ultra",
+      "retail"
+    ],
+    [
+      "ultra",
+      "season"
+    ],
+    [
+      "ultra",
+      "sensations"
+    ],
+    [
+      "ultra",
+      "strike"
+    ],
+    [
+      "ultra",
+      "strikeout"
+    ],
+    [
+      "ultra",
+      "the"
+    ],
+    [
+      "ultra",
+      "tomorrow's"
+    ],
+    [
+      "ultra",
+      "tony"
+    ],
+    [
+      "ultra",
+      "top"
+    ],
+    [
+      "ultra",
+      "touchdown"
+    ],
+    [
+      "ultra",
+      "ultra"
+    ],
+    [
+      "ultra",
+      "ultrabilities"
+    ],
+    [
+      "ultra",
+      "world"
+    ],
+    [
+      "ultra allstars",
+      "gold"
+    ],
+    [
+      "ultra award",
+      "winners"
+    ],
+    [
+      "ultra diamond",
+      "producers"
+    ],
+    [
+      "ultra double",
+      "trouble"
+    ],
+    [
+      "ultra double",
+      "up"
+    ],
+    [
+      "ultra flair",
+      "hot"
+    ],
+    [
+      "ultra flair",
+      "scoring"
+    ],
+    [
+      "ultra gold",
+      "medallion"
+    ],
+    [
+      "ultra hitting",
+      "machine"
+    ],
+    [
+      "ultra hitting",
+      "machines"
+    ],
+    [
+      "ultra home",
+      "run"
+    ],
+    [
+      "ultra leather",
+      "shop"
+    ],
+    [
+      "ultra power",
+      "plus"
+    ],
+    [
+      "ultra rbi",
+      "kings"
+    ],
+    [
+      "ultra season",
+      "crowns"
+    ],
+    [
+      "ultra sensations",
+      "blue"
+    ],
+    [
+      "ultra strike",
+      "out"
+    ],
+    [
+      "ultra strike",
+      "zone"
+    ],
+    [
+      "ultra the",
+      "book"
+    ],
+    [
+      "ultra tomorrow's",
+      "legends"
+    ],
+    [
+      "ultra touchdown",
+      "kings"
+    ],
+    [
+      "ultra ultra",
+      "(ultra"
+    ],
+    [
+      "ultra ultra",
+      "achievement"
+    ],
+    [
+      "ultra ultra",
+      "achievements"
+    ],
+    [
+      "ultra ultra",
+      "allstar"
+    ],
+    [
+      "ultra ultra",
+      "gold"
+    ],
+    [
+      "ultra ultra",
+      "performances"
+    ],
+    [
+      "ultra ultra",
+      "performers"
+    ],
+    [
+      "ultra ultra",
+      "stars"
+    ],
+    [
+      "unparalleled",
+      "signatures"
+    ],
+    [
+      "usa",
+      "199495"
+    ],
+    [
+      "west",
+      "allstar"
+    ],
+    [
+      "west allstar",
+      "checklist"
+    ],
+    [
+      "wheaties",
+      "cereal"
+    ],
+    [
+      "wheels",
+      "crown"
+    ],
+    [
+      "wheels",
+      "knight"
+    ],
+    [
+      "wheels",
+      "main"
+    ],
+    [
+      "wheels",
+      "thunder"
+    ],
+    [
+      "wheels",
+      "viper"
+    ],
+    [
+      "wheels crown",
+      "jewels"
+    ],
+    [
+      "wheels knight",
+      "quest"
+    ],
+    [
+      "wheels main",
+      "event"
+    ],
+    [
+      "whitehall",
+      "legends"
+    ],
+    [
+      "wild",
+      "alumination"
+    ],
+    [
+      "wild",
+      "draft"
+    ],
+    [
+      "wild",
+      "field"
+    ],
+    [
+      "wild",
+      "pro picks"
+    ],
+    [
+      "wild",
+      "prototypes"
+    ],
+    [
+      "wild",
+      "stat"
+    ],
+    [
+      "wild",
+      "superchrome"
+    ],
+    [
+      "wild stat",
+      "smashers"
+    ],
+    [
+      "wonder",
+      "bread"
+    ],
+    [
+      "zenith",
+      "allstar"
+    ],
+    [
+      "zenith",
+      "behind"
+    ],
+    [
+      "zenith",
+      "class"
+    ],
+    [
+      "zenith",
+      "honor"
+    ],
+    [
+      "zenith",
+      "mozaics"
+    ],
+    [
+      "zenith",
+      "noteworthy"
+    ],
+    [
+      "zenith",
+      "promos"
+    ],
+    [
+      "zenith",
+      "record"
+    ],
+    [
+      "zenith",
+      "red"
+    ],
+    [
+      "zenith",
+      "retail"
+    ],
+    [
+      "zenith",
+      "second"
+    ],
+    [
+      "zenith",
+      "thunder"
+    ],
+    [
+      "zenith",
+      "wave"
+    ],
+    [
+      "zenith",
+      "zstars"
+    ],
+    [
+      "zenith",
+      "zteam"
+    ],
+    [
+      "zenith allstar",
+      "salute"
+    ],
+    [
+      "zenith class",
+      "president"
+    ],
+    [
+      "zenith noteworthy",
+      "'95"
+    ],
+    [
+      "zenith red",
+      "zone"
+    ],
+    [
+      "zenith second",
+      "season"
+    ],
+    [
+      "zenith zteam",
+      "mirror"
+    ]
+  ],
+  "token_equivalents": [
+    [
+      "emotion",
+      "e-motion",
+      "e motion",
+      "e'motion"
+    ],
+    [
+      "emotion",
+      "e-motion",
+      "e'motion",
+      "e motion"
+    ]
+  ],
+  "ignore_tokens": [
+    "trading",
+    "cards",
+    "card",
+    "mlb",
+    "nba",
+    "nfl",
+    "nhl",
+    "baseball",
+    "football",
+    "basketball",
+    "hockey",
+    "limited",
+    "edition",
+    "collectors",
+    "collector",
+    "series",
+    "premier",
+    "premiere",
+    "special",
+    "official",
+    "officially",
+    "team",
+    "all",
+    "star",
+    "rc",
+    "rookie",
+    "prospect"
+  ],
+  "similarity": {
+    "min_jaccard": 0.4,
+    "min_levenshtein_ratio": 0.78
+  },
+  "set_normalization_synonyms": {}
+}

@@ -1,0 +1,228 @@
+def get_price_strict(
+    active_totals: List[float],
+    sold_totals: List[float],
+    current_price: Optional[float] = None
+) -> Tuple[Optional[float], Optional[float], Optional[float], str]:
+    """
+    A2-Price-Safe strict pricing engine.
+
+    A2 rules:
+      - Use merged actives as primary source, SOLD as secondary.
+      - Take lowest up to K (=5) active comps, then median of those K.
+      - If <K actives, still median of however many (1–4).
+      - SOLD median used only when we have no usable actives.
+      - If median_sold >> median_active and few sold samples, drop sold.
+
+    Price-Safe layer:
+      - Human rounding.
+      - Enforce PRICE_FLOOR.
+      - If current_price is known:
+          * Max 40% drop in a single pass.
+          * For higher-priced items (>= 4.99), don't crash below 3.49.
+    """
+    note_parts: List[str] = []
+
+    # ---------- Normalize ACTIVE ----------
+    act_values: List[float] = []
+    for v in active_totals or []:
+        try:
+            fv = float(v)
+            if fv > 0:
+                act_values.append(fv)
+        except Exception:
+            continue
+
+    median_active: Optional[float] = None
+    active_n = 0
+    if act_values:
+        act_values = sorted(act_values)
+        # Lowest K strategy
+        k = min(LOWEST_ACTIVE_AVG_K, len(act_values))
+        lowest_k = act_values[:k]
+        active_n = len(lowest_k)
+        median_active = _median(lowest_k)
+        note_parts.append(f"Active(A2,k={active_n})")
+
+    # ---------- Normalize SOLD ----------
+    sold_values: List[float] = []
+    for v in sold_totals or []:
+        try:
+            fv = float(v)
+            if fv > 0:
+                sold_values.append(fv)
+        except Exception:
+            continue
+
+    median_sold: Optional[float] = None
+    sold_n = len(sold_values)
+    if sold_values:
+        sold_values = sorted(sold_values)
+        median_sold = _median(sold_values)
+        note_parts.append(f"Sold(A2,n={sold_n})")
+
+    # ---------- Sold vs Active mismatch guard ----------
+    if median_sold is not None and median_active is not None:
+        try:
+            if sold_n <= 3 and median_sold > 2 * median_active:
+                # Discard suspiciously high sold median when few sold samples
+                median_sold = None
+                note_parts.append("Sold dropped (>> actives w/low N)")
+        except Exception:
+            pass
+
+    # ---------- Primary selection ----------
+    suggested: Optional[float] = None
+    if median_active is not None:
+        suggested = median_active
+        primary_source = "Active median A2"
+    elif median_sold is not None:
+        suggested = median_sold
+        primary_source = "Sold median A2"
+    else:
+        return None, None, None, "No data"
+
+    note_parts.append(primary_source)
+
+    # ---------- Human rounding + floor ----------
+    suggested = _human_round(suggested)
+
+    if suggested < PRICE_FLOOR:
+        suggested = PRICE_FLOOR
+        note_parts.append("Floor clamp")
+
+    # ---------- Price-Safe layer (relative to current price) ----------
+    if current_price is not None:
+        try:
+            cp = float(current_price)
+        except Exception:
+            cp = None
+        if cp is not None and cp > 0:
+            HIGH_PRICE_THRESHOLD = 4.99
+            HIGH_PRICE_FLOOR = 3.49
+            MAX_DROP_PERCENT = 40
+
+            # Max 40% drop vs current price
+            min_allowed_by_percent = round(cp * (1 - MAX_DROP_PERCENT / 100), 2)
+            if suggested < min_allowed_by_percent:
+                suggested = min_allowed_by_percent
+                note_parts.append("Drop capped 40% vs current")
+
+            # For higher-priced items, don't crash below HIGH_PRICE_FLOOR
+            if cp >= HIGH_PRICE_THRESHOLD and suggested < HIGH_PRICE_FLOOR:
+                suggested = HIGH_PRICE_FLOOR
+                note_parts.append("High-price floor clamp")
+
+            if suggested < PRICE_FLOOR:
+                suggested = PRICE_FLOOR
+                if "Floor clamp" not in note_parts:
+                    note_parts.append("Floor clamp")
+
+    final_note = " | ".join(note_parts) if note_parts else ""
+    return median_sold, median_active, round(suggested, 2), final_note
+
+def search_active(
+    title: str,
+    limit: int = ACTIVE_LIMIT,
+    active_cache: Optional[Dict] = None,
+) -> Tuple[List[float], str, int]:
+    supply_count = 0
+
+    if active_cache is not None:
+        cached, from_cache = maybe_use_active_cache(title, active_cache, ACTIVE_CACHE_TTL_MIN)
+        if from_cache and cached:
+            supply_count = len(cached)
+            return cached, "ActiveCache (Merged)", supply_count
+
+    raw_title = (title or "").strip()
+    dynamic_query = _build_dynamic_query(title)
+
+    browse_queries: List[str] = []
+    if dynamic_query:
+        browse_queries.append(dynamic_query)
+    browse_queries.extend(_build_active_fallback_queries(title))
+    if raw_title:
+        browse_queries.append(raw_title)
+
+    finding_queries: List[str] = []
+    if dynamic_query:
+        finding_queries.append(dynamic_query)
+    if raw_title:
+        finding_queries.append(raw_title)
+
+    merged_items: List[Dict] = []
+    seen_keys = set()
+    any_browse = False
+    any_finding = False
+
+    for q in browse_queries:
+        if not q:
+            continue
+        items = _fetch_active_items_browse_for_query(q, limit)
+        if items:
+            any_browse = True
+        for it in items:
+            key = (it["title"].lower().strip(), it["total"])
+            if key in seen_keys:
+                continue
+            seen_keys.add(key)
+            merged_items.append(it)
+
+    for q in finding_queries:
+        if not q:
+            continue
+        items = _fetch_active_items_finding_for_query(q, limit)
+        if items:
+            any_finding = True
+        for it in items:
+            key = (it["title"].lower().strip(), it["total"])
+            if key in seen_keys:
+                continue
+            seen_keys.add(key)
+            merged_items.append(it)
+
+    if not merged_items:
+        return [], "No actives", supply_count
+
+    subject_sig = _extract_card_signature_from_title(title)
+    subject_serial = _extract_serial_fragment(title)
+
+    filtered_items: List[Dict] = []
+    for it in merged_items:
+        comp_title = it["title"] or ""
+        price = it["total"]
+
+        # Serial handling: only enforce when the subject itself is serial-numbered.
+        comp_serial = _extract_serial_fragment(comp_title)
+        if subject_serial and comp_serial and comp_serial != subject_serial:
+            continue
+
+        if subject_sig is not None:
+            if not _titles_match_strict(subject_sig, comp_title, price):
+                continue
+
+        # Scale safe_hybrid_filter by price level: relax for low-value cards.
+        if price >= 10:
+            if not safe_hybrid_filter(title, comp_title, price):
+                continue
+
+        filtered_items.append(it)
+
+    if not filtered_items:
+        return [], "No actives", supply_count
+
+    filtered_items.sort(key=lambda x: x["total"])
+    active_totals = [it["total"] for it in filtered_items]
+    supply_count = len(active_totals)
+
+    source_bits = []
+    if any_browse:
+        source_bits.append("Browse")
+    if any_finding:
+        source_bits.append("Finding")
+    act_source = " + ".join(source_bits) + " (Merged)" if source_bits else "No actives"
+
+    if active_cache is not None and active_totals:
+        update_active_cache(title, active_totals, active_cache)
+
+    return active_totals, act_source, supply_count
+
